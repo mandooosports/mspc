@@ -1,506 +1,620 @@
-#EXTM3U
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport Global 4K" tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Global.png" group-title="beIN Sport 4K",beIN Sport Global 4K
-http://xlion.net:8080/15034094901029/18800196589372/22186
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport News 4K" tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-News.png" group-title="beIN Sport 4K",beIN Sport News 4K
-http://xlion.net:8080/15034094901029/18800196589372/318230
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 1 4k" tvg-logo="http://51.158.158.30/world_tv_logos/bein-1.png" group-title="beIN Sport 4K",beIN Sport 1 4k
-http://xlion.net:8080/15034094901029/18800196589372/318197
-#EXTINF:-1 tvg-ID="" tvg-name="beIN1 H265" tvg-logo="http://51.158.158.30/world_tv_logos/bein-1.png" group-title="beIN Sport 4K",beIN1 H265
-http://xlion.net:8080/15034094901029/18800196589372/391094
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 2 4k" tvg-logo="http://51.158.158.30/world_tv_logos/bein-2.png" group-title="beIN Sport 4K",beIN Sport 2 4k
-http://xlion.net:8080/15034094901029/18800196589372/318198
-#EXTINF:-1 tvg-ID="" tvg-name="beIN2 H265" tvg-logo="http://51.158.158.30/world_tv_logos/bein-2.png" group-title="beIN Sport 4K",beIN2 H265
-http://xlion.net:8080/15034094901029/18800196589372/391095
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 3 4k" tvg-logo="http://51.158.158.30/world_tv_logos/bein-3.png" group-title="beIN Sport 4K",beIN Sport 3 4k
-http://xlion.net:8080/15034094901029/18800196589372/318199
-#EXTINF:-1 tvg-ID="" tvg-name="beIN3 H265" tvg-logo="http://51.158.158.30/world_tv_logos/bein-3.png" group-title="beIN Sport 4K",beIN3 H265
-http://xlion.net:8080/15034094901029/18800196589372/391096
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 4 4k" tvg-logo="http://51.158.158.30/world_tv_logos/bein-4.png" group-title="beIN Sport 4K",beIN Sport 4 4k
-http://xlion.net:8080/15034094901029/18800196589372/440580
-#EXTINF:-1 tvg-ID="" tvg-name="beIN4 H265" tvg-logo="http://51.158.158.30/world_tv_logos/bein-4.png" group-title="beIN Sport 4K",beIN4 H265
-http://xlion.net:8080/15034094901029/18800196589372/391097
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 5 4k" tvg-logo="http://51.158.158.30/world_tv_logos/bein-5.png" group-title="beIN Sport 4K",beIN Sport 5 4k
-http://xlion.net:8080/15034094901029/18800196589372/318201
-#EXTINF:-1 tvg-ID="" tvg-name="beIN5 H265" tvg-logo="http://51.158.158.30/world_tv_logos/bein-5.png" group-title="beIN Sport 4K",beIN5 H265
-http://xlion.net:8080/15034094901029/18800196589372/391098
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 6 4k" tvg-logo="http://51.158.158.30/world_tv_logos/bein-6.png" group-title="beIN Sport 4K",beIN Sport 6 4k
-http://xlion.net:8080/15034094901029/18800196589372/318202
-#EXTINF:-1 tvg-ID="" tvg-name="beIN6 H265" tvg-logo="http://51.158.158.30/world_tv_logos/bein-6.png" group-title="beIN Sport 4K",beIN6 H265
-http://xlion.net:8080/15034094901029/18800196589372/391099
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 7 4k" tvg-logo="http://51.158.158.30/world_tv_logos/bein-7.png" group-title="beIN Sport 4K",beIN Sport 7 4k
-http://xlion.net:8080/15034094901029/18800196589372/318203
-#EXTINF:-1 tvg-ID="" tvg-name="beIN7 H265" tvg-logo="http://51.158.158.30/world_tv_logos/bein-7.png" group-title="beIN Sport 4K",beIN7 H265
-http://xlion.net:8080/15034094901029/18800196589372/391100
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 8 4k" tvg-logo="http://51.158.158.30/world_tv_logos/bein-8.png" group-title="beIN Sport 4K",beIN Sport 8 4k
-http://xlion.net:8080/15034094901029/18800196589372/318204
-#EXTINF:-1 tvg-ID="" tvg-name="beIN8 H265" tvg-logo="http://51.158.158.30/world_tv_logos/bein-8.png" group-title="beIN Sport 4K",beIN8 H265
-http://xlion.net:8080/15034094901029/18800196589372/391101
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 9 4k" tvg-logo="http://51.158.158.30/world_tv_logos/bein-9.png" group-title="beIN Sport 4K",beIN Sport 9 4k
-http://xlion.net:8080/15034094901029/18800196589372/318205
-#EXTINF:-1 tvg-ID="" tvg-name="beIN9 H265" tvg-logo="http://51.158.158.30/world_tv_logos/bein-9.png" group-title="beIN Sport 4K",beIN9 H265
-http://xlion.net:8080/15034094901029/18800196589372/391102
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport XTRA 1 4K" tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="beIN Sport Xtra",beIN Sport XTRA 1 4K
-http://xlion.net:8080/15034094901029/18800196589372/325790
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport XTRA 2 4K" tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="beIN Sport Xtra",beIN Sport XTRA 2 4K
-http://xlion.net:8080/15034094901029/18800196589372/319487
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport XTRA 3 4K" tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="beIN Sport Xtra",beIN Sport XTRA 3 4K
-http://xlion.net:8080/15034094901029/18800196589372/319488
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport XTRA 4 4K" tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="beIN Sport Xtra",beIN Sport XTRA 4 4K
-http://xlion.net:8080/15034094901029/18800196589372/440569
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport XTRA 5 4K" tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="beIN Sport Xtra",beIN Sport XTRA 5 4K
-http://xlion.net:8080/15034094901029/18800196589372/440570
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport XTRA 6 4K" tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="beIN Sport Xtra",beIN Sport XTRA 6 4K
-http://xlion.net:8080/15034094901029/18800196589372/440571
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport XTRA 7 4K" tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="beIN Sport Xtra",beIN Sport XTRA 7 4K
-http://xlion.net:8080/15034094901029/18800196589372/447243
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport XTRA 8 4K" tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="beIN Sport Xtra",beIN Sport XTRA 8 4K
-http://xlion.net:8080/15034094901029/18800196589372/447244
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport XTRA 9 4K" tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="beIN Sport Xtra",beIN Sport XTRA 9 4K
-http://xlion.net:8080/15034094901029/18800196589372/447245
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport English 1 4k" tvg-logo="http://51.158.158.30/world_tv_logos/bein-1.png" group-title="beIN Sport 4K",beIN Sport English 1 4k
-http://xlion.net:8080/15034094901029/18800196589372/319495
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport English 2 4k" tvg-logo="http://51.158.158.30/world_tv_logos/bein-2.png" group-title="beIN Sport 4K",beIN Sport English 2 4k
-http://xlion.net:8080/15034094901029/18800196589372/319496
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport French 1 4k" tvg-logo="http://51.158.158.30/world_tv_logos/bein-1.png" group-title="beIN Sport 4K",beIN Sport French 1 4k
-http://xlion.net:8080/15034094901029/18800196589372/319497
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport French 2 4k" tvg-logo="http://51.158.158.30/world_tv_logos/bein-2.png" group-title="beIN Sport 4K",beIN Sport French 2 4k
-http://xlion.net:8080/15034094901029/18800196589372/319498
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport NBA 4K" tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-NBA.jpg" group-title="beIN Sport 4K",beIN Sport NBA 4K
-http://xlion.net:8080/15034094901029/18800196589372/319499
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Global HD" tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Global.jpg" group-title="beIN Sport HD",beIN Global HD
-http://xlion.net:8080/15034094901029/18800196589372/442220
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport News HD" tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-News.png" group-title="beIN Sport HD",beIN Sport News HD
-http://xlion.net:8080/15034094901029/18800196589372/443146
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 1 HD" tvg-logo="http://51.158.158.30/world_tv_logos/bein-1.png" group-title="beIN Sport HD",beIN Sport 1 HD
-http://xlion.net:8080/15034094901029/18800196589372/325793
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 2 HD" tvg-logo="http://51.158.158.30/world_tv_logos/bein-2.png" group-title="beIN Sport HD",beIN Sport 2 HD
-http://xlion.net:8080/15034094901029/18800196589372/325794
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 3 HD" tvg-logo="http://51.158.158.30/world_tv_logos/bein-3.png" group-title="beIN Sport HD",beIN Sport 3 HD
-http://xlion.net:8080/15034094901029/18800196589372/325795
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 4 HD" tvg-logo="http://51.158.158.30/world_tv_logos/bein-4.png" group-title="beIN Sport HD",beIN Sport 4 HD
-http://xlion.net:8080/15034094901029/18800196589372/325796
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 5 HD" tvg-logo="http://51.158.158.30/world_tv_logos/bein-5.png" group-title="beIN Sport HD",beIN Sport 5 HD
-http://xlion.net:8080/15034094901029/18800196589372/325797
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 6 HD" tvg-logo="http://51.158.158.30/world_tv_logos/bein-6.png" group-title="beIN Sport HD",beIN Sport 6 HD
-http://xlion.net:8080/15034094901029/18800196589372/325798
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 7 HD" tvg-logo="http://51.158.158.30/world_tv_logos/bein-7.png" group-title="beIN Sport HD",beIN Sport 7 HD
-http://xlion.net:8080/15034094901029/18800196589372/325799
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 8 HD" tvg-logo="http://51.158.158.30/world_tv_logos/bein-8.png" group-title="beIN Sport HD",beIN Sport 8 HD
-http://xlion.net:8080/15034094901029/18800196589372/325800
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 9 HD" tvg-logo="http://51.158.158.30/world_tv_logos/bein-9.png" group-title="beIN Sport HD",beIN Sport 9 HD
-http://xlion.net:8080/15034094901029/18800196589372/325801
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 1 HD English" tvg-logo="http://51.158.158.30/world_tv_logos/bein-1.png" group-title="beIN Sport HD",beIN Sport 1 HD English
-http://xlion.net:8080/15034094901029/18800196589372/318217
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 2 HD English" tvg-logo="http://51.158.158.30/world_tv_logos/bein-2.png" group-title="beIN Sport HD",beIN Sport 2 HD English
-http://xlion.net:8080/15034094901029/18800196589372/318218
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 1 HD Frensh" tvg-logo="http://51.158.158.30/world_tv_logos/bein-1.png" group-title="beIN Sport HD",beIN Sport 1 HD Frensh
-http://xlion.net:8080/15034094901029/18800196589372/319437
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 2 HD Frensh" tvg-logo="http://51.158.158.30/world_tv_logos/bein-2.png" group-title="beIN Sport HD",beIN Sport 2 HD Frensh
-http://xlion.net:8080/15034094901029/18800196589372/319438
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport Xtra 1 HD" tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="beIN Sport Xtra",beIN Sport Xtra 1 HD
-http://xlion.net:8080/15034094901029/18800196589372/325802
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport Xtra 2 HD" tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="beIN Sport Xtra",beIN Sport Xtra 2 HD
-http://xlion.net:8080/15034094901029/18800196589372/319435
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport Xtra 3 HD" tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="beIN Sport Xtra",beIN Sport Xtra 3 HD
-http://xlion.net:8080/15034094901029/18800196589372/319436
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport Xtra 4 HD" tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="beIN Sport Xtra",beIN Sport Xtra 4 HD
-http://xlion.net:8080/15034094901029/18800196589372/440572
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport Xtra 5 HD" tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="beIN Sport Xtra",beIN Sport Xtra 5 HD
-http://xlion.net:8080/15034094901029/18800196589372/440573
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport Xtra 6 HD" tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="beIN Sport Xtra",beIN Sport Xtra 6 HD
-http://xlion.net:8080/15034094901029/18800196589372/440574
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport Xtra 7 HD" tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="beIN Sport Xtra",beIN Sport Xtra 7 HD
-http://xlion.net:8080/15034094901029/18800196589372/447246
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport Xtra 8 HD" tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="beIN Sport Xtra",beIN Sport Xtra 8 HD
-http://xlion.net:8080/15034094901029/18800196589372/447247
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport Xtra 9 HD" tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="beIN Sport Xtra",beIN Sport Xtra 9 HD
-http://xlion.net:8080/15034094901029/18800196589372/447248
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport NBA HD" tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-NBA.jpg" group-title="beIN Sport HD",beIN Sport NBA HD
-http://xlion.net:8080/15034094901029/18800196589372/318219
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 1 sd" tvg-logo="http://51.158.158.30/world_tv_logos/bein-1.png" group-title="beIN Sport SD",beIN Sport 1 sd
-http://xlion.net:8080/15034094901029/18800196589372/325803
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 2 sd" tvg-logo="http://51.158.158.30/world_tv_logos/bein-2.png" group-title="beIN Sport SD",beIN Sport 2 sd
-http://xlion.net:8080/15034094901029/18800196589372/325804
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 3 sd" tvg-logo="http://51.158.158.30/world_tv_logos/bein-3.png" group-title="beIN Sport SD",beIN Sport 3 sd
-http://xlion.net:8080/15034094901029/18800196589372/325805
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 4 sd" tvg-logo="http://51.158.158.30/world_tv_logos/bein-4.png" group-title="beIN Sport SD",beIN Sport 4 sd
-http://xlion.net:8080/15034094901029/18800196589372/325806
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 5 sd" tvg-logo="http://51.158.158.30/world_tv_logos/bein-5.png" group-title="beIN Sport SD",beIN Sport 5 sd
-http://xlion.net:8080/15034094901029/18800196589372/325807
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 6 sd" tvg-logo="http://51.158.158.30/world_tv_logos/bein-6.png" group-title="beIN Sport SD",beIN Sport 6 sd
-http://xlion.net:8080/15034094901029/18800196589372/325808
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 7 sd" tvg-logo="http://51.158.158.30/world_tv_logos/bein-7.png" group-title="beIN Sport SD",beIN Sport 7 sd
-http://xlion.net:8080/15034094901029/18800196589372/325809
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 8 sd" tvg-logo="http://51.158.158.30/world_tv_logos/bein-8.png" group-title="beIN Sport SD",beIN Sport 8 sd
-http://xlion.net:8080/15034094901029/18800196589372/325810
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 9 sd" tvg-logo="http://51.158.158.30/world_tv_logos/bein-9.png" group-title="beIN Sport SD",beIN Sport 9 sd
-http://xlion.net:8080/15034094901029/18800196589372/325811
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport xtra 1 sd" tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="beIN Sport Xtra",beIN Sport xtra 1 sd
-http://xlion.net:8080/15034094901029/18800196589372/325812
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport xtra 2 sd" tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="beIN Sport Xtra",beIN Sport xtra 2 sd
-http://xlion.net:8080/15034094901029/18800196589372/319423
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport xtra 3 sd" tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="beIN Sport Xtra",beIN Sport xtra 3 sd
-http://xlion.net:8080/15034094901029/18800196589372/319424
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport xtra 4 sd" tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="beIN Sport Xtra",beIN Sport xtra 4 sd
-http://xlion.net:8080/15034094901029/18800196589372/440575
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport xtra 5 sd" tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="beIN Sport Xtra",beIN Sport xtra 5 sd
-http://xlion.net:8080/15034094901029/18800196589372/440576
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport xtra 6 sd" tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="beIN Sport Xtra",beIN Sport xtra 6 sd
-http://xlion.net:8080/15034094901029/18800196589372/440577
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport xtra 7 sd" tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="beIN Sport Xtra",beIN Sport xtra 7 sd
-http://xlion.net:8080/15034094901029/18800196589372/447249
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport xtra 8 sd" tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="beIN Sport Xtra",beIN Sport xtra 8 sd
-http://xlion.net:8080/15034094901029/18800196589372/447250
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport xtra 9 sd" tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="beIN Sport Xtra",beIN Sport xtra 9 sd
-http://xlion.net:8080/15034094901029/18800196589372/447251
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport English 1 sd" tvg-logo="http://51.158.158.30/world_tv_logos/bein-1.png" group-title="beIN Sport SD",beIN Sport English 1 sd
-http://xlion.net:8080/15034094901029/18800196589372/319425
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport English 2 sd" tvg-logo="http://51.158.158.30/world_tv_logos/bein-2.png" group-title="beIN Sport SD",beIN Sport English 2 sd
-http://xlion.net:8080/15034094901029/18800196589372/319426
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport French 1 sd" tvg-logo="http://51.158.158.30/world_tv_logos/bein-1.png" group-title="beIN Sport SD",beIN Sport French 1 sd
-http://xlion.net:8080/15034094901029/18800196589372/319427
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport French 2 sd" tvg-logo="http://51.158.158.30/world_tv_logos/bein-2.png" group-title="beIN Sport SD",beIN Sport French 2 sd
-http://xlion.net:8080/15034094901029/18800196589372/319428
-#EXTINF:-1 tvg-ID="" tvg-name="BoxOffice 01" tvg-logo="http://163.172.39.182:80/logo/boxoffice.png" group-title="BoxOffice",BoxOffice 01
-http://xlion.net:8080/15034094901029/18800196589372/245995
-#EXTINF:-1 tvg-ID="" tvg-name="BoxOffice 02" tvg-logo="http://163.172.39.182:80/logo/boxoffice.png" group-title="BoxOffice",BoxOffice 02
-http://xlion.net:8080/15034094901029/18800196589372/245996
-#EXTINF:-1 tvg-ID="" tvg-name="BoxOffice 03" tvg-logo="http://163.172.39.182:80/logo/boxoffice.png" group-title="BoxOffice",BoxOffice 03
-http://xlion.net:8080/15034094901029/18800196589372/245997
-#EXTINF:-1 tvg-ID="" tvg-name="BoxOffice 04" tvg-logo="http://163.172.39.182:80/logo/boxoffice.png" group-title="BoxOffice",BoxOffice 04
-http://xlion.net:8080/15034094901029/18800196589372/245998
-#EXTINF:-1 tvg-ID="" tvg-name="BoxOffice 05" tvg-logo="http://163.172.39.182:80/logo/boxoffice.png" group-title="BoxOffice",BoxOffice 05
-http://xlion.net:8080/15034094901029/18800196589372/245999
-#EXTINF:-1 tvg-ID="" tvg-name="BoxOffice 06" tvg-logo="http://163.172.39.182:80/logo/boxoffice.png" group-title="BoxOffice",BoxOffice 06
-http://xlion.net:8080/15034094901029/18800196589372/246000
-#EXTINF:-1 tvg-ID="" tvg-name="BoxOffice 07" tvg-logo="http://163.172.39.182:80/logo/boxoffice.png" group-title="BoxOffice",BoxOffice 07
-http://xlion.net:8080/15034094901029/18800196589372/246001
-#EXTINF:-1 tvg-ID="" tvg-name="BoxOffice 08" tvg-logo="http://163.172.39.182:80/logo/boxoffice.png" group-title="BoxOffice",BoxOffice 08
-http://xlion.net:8080/15034094901029/18800196589372/246002
-#EXTINF:-1 tvg-ID="" tvg-name="BoxOffice 09" tvg-logo="http://163.172.39.182:80/logo/boxoffice.png" group-title="BoxOffice",BoxOffice 09
-http://xlion.net:8080/15034094901029/18800196589372/246003
-#EXTINF:-1 tvg-ID="" tvg-name="BoxOffice 10" tvg-logo="http://163.172.39.182:80/logo/boxoffice.png" group-title="BoxOffice",BoxOffice 10
-http://xlion.net:8080/15034094901029/18800196589372/246004
-#EXTINF:-1 tvg-ID="" tvg-name="BoxOffice 11" tvg-logo="http://163.172.39.182:80/logo/boxoffice.png" group-title="BoxOffice",BoxOffice 11
-http://xlion.net:8080/15034094901029/18800196589372/246005
-#EXTINF:-1 tvg-ID="" tvg-name="BoxOffice 12" tvg-logo="http://163.172.39.182:80/logo/boxoffice.png" group-title="BoxOffice",BoxOffice 12
-http://xlion.net:8080/15034094901029/18800196589372/246006
-#EXTINF:-1 tvg-ID="" tvg-name="BoxOffice 13" tvg-logo="http://163.172.39.182:80/logo/boxoffice.png" group-title="BoxOffice",BoxOffice 13
-http://xlion.net:8080/15034094901029/18800196589372/246007
-#EXTINF:-1 tvg-ID="" tvg-name="BoxOffice 14" tvg-logo="http://163.172.39.182:80/logo/boxoffice.png" group-title="BoxOffice",BoxOffice 14
-http://xlion.net:8080/15034094901029/18800196589372/246008
-#EXTINF:-1 tvg-ID="" tvg-name="BoxOffice 15" tvg-logo="http://163.172.39.182:80/logo/boxoffice.png" group-title="BoxOffice",BoxOffice 15
-http://xlion.net:8080/15034094901029/18800196589372/246009
-#EXTINF:-1 tvg-ID="" tvg-name="beIN MOVIES 4K 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN MOVIES 4K 1
-http://xlion.net:8080/15034094901029/18800196589372/319672
-#EXTINF:-1 tvg-ID="" tvg-name="beIN MOVIES 4K 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN MOVIES 4K 2
-http://xlion.net:8080/15034094901029/18800196589372/319673
-#EXTINF:-1 tvg-ID="" tvg-name="beIN MOVIES 4K 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN MOVIES 4K 3
-http://xlion.net:8080/15034094901029/18800196589372/319674
-#EXTINF:-1 tvg-ID="" tvg-name="beIN MOVIES 4K 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN MOVIES 4K 4
-http://xlion.net:8080/15034094901029/18800196589372/319675
-#EXTINF:-1 tvg-ID="" tvg-name="beIN SERIES 4K 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN SERIES 4K 1
-http://xlion.net:8080/15034094901029/18800196589372/319676
-#EXTINF:-1 tvg-ID="" tvg-name="beIN SERIES 4K 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN SERIES 4K 2
-http://xlion.net:8080/15034094901029/18800196589372/319677
-#EXTINF:-1 tvg-ID="" tvg-name="beIN DRAMA 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN DRAMA 4K
-http://xlion.net:8080/15034094901029/18800196589372/319678
-#EXTINF:-1 tvg-ID="" tvg-name="beIN FOX MOVIES 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN FOX MOVIES 4K
-http://xlion.net:8080/15034094901029/18800196589372/319679
-#EXTINF:-1 tvg-ID="" tvg-name="beIN FOX MOV ACTION 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN FOX MOV ACTION 4K
-http://xlion.net:8080/15034094901029/18800196589372/319680
-#EXTINF:-1 tvg-ID="" tvg-name="beIN FOX LIFE 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN FOX LIFE 4K
-http://xlion.net:8080/15034094901029/18800196589372/319681
-#EXTINF:-1 tvg-ID="" tvg-name="beIN BBC EARTH 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN BBC EARTH 4K
-http://xlion.net:8080/15034094901029/18800196589372/319682
-#EXTINF:-1 tvg-ID="" tvg-name="beIN GORMENT 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN GORMENT 4K
-http://xlion.net:8080/15034094901029/18800196589372/319683
-#EXTINF:-1 tvg-ID="" tvg-name="beIN FATAFEAT 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN FATAFEAT 4K
-http://xlion.net:8080/15034094901029/18800196589372/319684
-#EXTINF:-1 tvg-ID="" tvg-name="beIN BARAEAM 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN BARAEAM 4K
-http://xlion.net:8080/15034094901029/18800196589372/319685
-#EXTINF:-1 tvg-ID="" tvg-name="beIN JEEM 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN JEEM 4K
-http://xlion.net:8080/15034094901029/18800196589372/319686
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Movies 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN Movies 1 HD
-http://xlion.net:8080/15034094901029/18800196589372/319687
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Movies 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN Movies 2 HD
-http://xlion.net:8080/15034094901029/18800196589372/319688
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Movies 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN Movies 3 HD
-http://xlion.net:8080/15034094901029/18800196589372/319689
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Movies 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN Movies 4 HD
-http://xlion.net:8080/15034094901029/18800196589372/319690
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Series 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN Series 1 HD
-http://xlion.net:8080/15034094901029/18800196589372/319691
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Series 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN Series 2 HD
-http://xlion.net:8080/15034094901029/18800196589372/319692
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Drama 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN Drama 1 HD
-http://xlion.net:8080/15034094901029/18800196589372/319693
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Fox Movies HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN Fox Movies HD
-http://xlion.net:8080/15034094901029/18800196589372/319694
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Fox Action Movies HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN Fox Action Movies HD
-http://xlion.net:8080/15034094901029/18800196589372/319695
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Gourmet HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN Gourmet HD
-http://xlion.net:8080/15034094901029/18800196589372/319696
-#EXTINF:-1 tvg-ID="" tvg-name="beIN jeem HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN jeem HD
-http://xlion.net:8080/15034094901029/18800196589372/319697
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Baraem HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN Baraem HD
-http://xlion.net:8080/15034094901029/18800196589372/319698
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Fox Life HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN Fox Life HD
-http://xlion.net:8080/15034094901029/18800196589372/319700
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Nat Geo HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN Nat Geo HD
-http://xlion.net:8080/15034094901029/18800196589372/319701
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Nat geo Wild HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN Nat geo Wild HD
-http://xlion.net:8080/15034094901029/18800196589372/319702
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Star World HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN Star World HD
-http://xlion.net:8080/15034094901029/18800196589372/319703
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Star Movies HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN Star Movies HD
-http://xlion.net:8080/15034094901029/18800196589372/319704
-#EXTINF:-1 tvg-ID="" tvg-name="beIN BBC Earth HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN BBC Earth HD
-http://xlion.net:8080/15034094901029/18800196589372/319705
-#EXTINF:-1 tvg-ID="" tvg-name="Elsobkey kalibat" tvg-logo="" group-title="Elsobkey",Elsobkey kalibat
-http://xlion.net:8080/15034094901029/18800196589372/440736
-#EXTINF:-1 tvg-ID="" tvg-name="Elsobkey Zaman" tvg-logo="" group-title="Elsobkey",Elsobkey Zaman
-http://xlion.net:8080/15034094901029/18800196589372/440738
-#EXTINF:-1 tvg-ID="" tvg-name="Elsobkey CINEMA" tvg-logo="" group-title="Elsobkey",Elsobkey CINEMA
-http://xlion.net:8080/15034094901029/18800196589372/440740
-#EXTINF:-1 tvg-ID="" tvg-name="Elsobkey Junior" tvg-logo="" group-title="Elsobkey",Elsobkey Junior
-http://xlion.net:8080/15034094901029/18800196589372/440735
-#EXTINF:-1 tvg-ID="" tvg-name="Elsobkey Masr7yat" tvg-logo="" group-title="Elsobkey",Elsobkey Masr7yat
-http://xlion.net:8080/15034094901029/18800196589372/440737
-#EXTINF:-1 tvg-ID="" tvg-name="Elsobkey Horror" tvg-logo="" group-title="Elsobkey",Elsobkey Horror
-http://xlion.net:8080/15034094901029/18800196589372/440739
-#EXTINF:-1 tvg-ID="" tvg-name="Elsobkey Aflam 1" tvg-logo="" group-title="Elsobkey",Elsobkey Aflam 1
-http://xlion.net:8080/15034094901029/18800196589372/440741
-#EXTINF:-1 tvg-ID="" tvg-name="Elsobkey Aflam 2" tvg-logo="" group-title="Elsobkey",Elsobkey Aflam 2
-http://xlion.net:8080/15034094901029/18800196589372/440742
-#EXTINF:-1 tvg-ID="" tvg-name="Elsobkey Action 1" tvg-logo="" group-title="Elsobkey",Elsobkey Action 1
-http://xlion.net:8080/15034094901029/18800196589372/440743
-#EXTINF:-1 tvg-ID="" tvg-name="Elsobkey Action 2" tvg-logo="" group-title="Elsobkey",Elsobkey Action 2
-http://xlion.net:8080/15034094901029/18800196589372/440744
-#EXTINF:-1 tvg-ID="" tvg-name="WATCH iT! horror" tvg-logo="https://cdn.elwatannews.com/watan/543x295/19612654651556990193.jpg" group-title="WATCH iT!",WATCH iT! horror
-http://xlion.net:8080/15034094901029/18800196589372/434603
-#EXTINF:-1 tvg-ID="" tvg-name="WATCH iT! Cinema" tvg-logo="https://cdn.elwatannews.com/watan/543x295/19612654651556990193.jpg" group-title="WATCH iT!",WATCH iT! Cinema
-http://xlion.net:8080/15034094901029/18800196589372/434605
-#EXTINF:-1 tvg-ID="" tvg-name="WATCH iT! Kids" tvg-logo="https://cdn.elwatannews.com/watan/543x295/19612654651556990193.jpg" group-title="WATCH iT!",WATCH iT! Kids
-http://xlion.net:8080/15034094901029/18800196589372/434607
-#EXTINF:-1 tvg-ID="" tvg-name="WATCH iT! marvel" tvg-logo="https://cdn.elwatannews.com/watan/543x295/19612654651556990193.jpg" group-title="WATCH iT!",WATCH iT! marvel
-http://xlion.net:8080/15034094901029/18800196589372/434609
-#EXTINF:-1 tvg-ID="" tvg-name="WATCH iT! El Dahee7" tvg-logo="https://cdn.elwatannews.com/watan/543x295/19612654651556990193.jpg" group-title="WATCH iT!",WATCH iT! El Dahee7
-http://xlion.net:8080/15034094901029/18800196589372/434611
-#EXTINF:-1 tvg-ID="" tvg-name="WATCH iT! Zaman" tvg-logo="https://cdn.elwatannews.com/watan/543x295/19612654651556990193.jpg" group-title="WATCH iT!",WATCH iT! Zaman
-http://xlion.net:8080/15034094901029/18800196589372/434612
-#EXTINF:-1 tvg-ID="" tvg-name="WATCH iT! Masr7yat" tvg-logo="https://cdn.elwatannews.com/watan/543x295/19612654651556990193.jpg" group-title="WATCH iT!",WATCH iT! Masr7yat
-http://xlion.net:8080/15034094901029/18800196589372/434613
-#EXTINF:-1 tvg-ID="" tvg-name="WATCH iT! Action" tvg-logo="https://cdn.elwatannews.com/watan/543x295/19612654651556990193.jpg" group-title="WATCH iT!",WATCH iT! Action
-http://xlion.net:8080/15034094901029/18800196589372/434614
-#EXTINF:-1 tvg-ID="" tvg-name="AR: LEARN DRIVE 1 4K" tvg-logo="" group-title="LEARN",AR: LEARN DRIVE 1 4K
-http://xlion.net:8080/15034094901029/18800196589372/414108
-#EXTINF:-1 tvg-ID="" tvg-name="AR: LEARN DRIVE 2 4K" tvg-logo="" group-title="LEARN",AR: LEARN DRIVE 2 4K
-http://xlion.net:8080/15034094901029/18800196589372/414109
-#EXTINF:-1 tvg-ID="" tvg-name="AR: LEARN DEUTSCH 4K" tvg-logo="" group-title="LEARN",AR: LEARN DEUTSCH 4K
-http://xlion.net:8080/15034094901029/18800196589372/414110
-#EXTINF:-1 tvg-ID="" tvg-name="AR: LEARN DUTCH 4K" tvg-logo="" group-title="LEARN",AR: LEARN DUTCH 4K
-http://xlion.net:8080/15034094901029/18800196589372/414111
-#EXTINF:-1 tvg-ID="" tvg-name="AR: LEARN DANISH 4K" tvg-logo="" group-title="LEARN",AR: LEARN DANISH 4K
-http://xlion.net:8080/15034094901029/18800196589372/414112
-#EXTINF:-1 tvg-ID="" tvg-name="AR: LEARN French 4K" tvg-logo="" group-title="LEARN",AR: LEARN French 4K
-http://xlion.net:8080/15034094901029/18800196589372/414113
-#EXTINF:-1 tvg-ID="" tvg-name="AR: LEARN Italian 4K" tvg-logo="" group-title="LEARN",AR: LEARN Italian 4K
-http://xlion.net:8080/15034094901029/18800196589372/414114
-#EXTINF:-1 tvg-ID="" tvg-name="AR: LEARN Russian 4K" tvg-logo="" group-title="LEARN",AR: LEARN Russian 4K
-http://xlion.net:8080/15034094901029/18800196589372/414115
-#EXTINF:-1 tvg-ID="" tvg-name="AR: LEARN Spanish 4K" tvg-logo="" group-title="LEARN",AR: LEARN Spanish 4K
-http://xlion.net:8080/15034094901029/18800196589372/414116
-#EXTINF:-1 tvg-ID="" tvg-name="AR: LEARN SWIDISH 4K" tvg-logo="" group-title="LEARN",AR: LEARN SWIDISH 4K
-http://xlion.net:8080/15034094901029/18800196589372/414117
-#EXTINF:-1 tvg-ID="" tvg-name="AR: LEARN Turkish 4K" tvg-logo="" group-title="LEARN",AR: LEARN Turkish 4K
-http://xlion.net:8080/15034094901029/18800196589372/414118
-#EXTINF:-1 tvg-ID="" tvg-name="AR: LEARN KURDISH KURMANJI 4K" tvg-logo="" group-title="LEARN",AR: LEARN KURDISH KURMANJI 4K
-http://xlion.net:8080/15034094901029/18800196589372/414119
-#EXTINF:-1 tvg-ID="" tvg-name="AR: LEARN KURDISH SORANI 4K" tvg-logo="" group-title="LEARN",AR: LEARN KURDISH SORANI 4K
-http://xlion.net:8080/15034094901029/18800196589372/414120
-#EXTINF:-1 tvg-ID="" tvg-name="SHAHID PLUS HARBIA" tvg-logo="https://i.ibb.co/0qY6Xyk/th-6.jpg" group-title="Monow3at",SHAHID PLUS HARBIA
-http://xlion.net:8080/15034094901029/18800196589372/278544
-#EXTINF:-1 tvg-ID="" tvg-name="POP BOLLYWOOD" tvg-logo="https://i.ibb.co/0qY6Xyk/th-6.jpg" group-title="Monow3at",POP BOLLYWOOD
-http://xlion.net:8080/15034094901029/18800196589372/278547
-#EXTINF:-1 tvg-ID="" tvg-name="POP KIDS 1" tvg-logo="https://i.ibb.co/0qY6Xyk/th-6.jpg" group-title="KIDS CHANNELS",POP KIDS 1
-http://xlion.net:8080/15034094901029/18800196589372/278549
-#EXTINF:-1 tvg-ID="" tvg-name="POP KIDS 2" tvg-logo="https://i.ibb.co/0qY6Xyk/th-6.jpg" group-title="KIDS CHANNELS",POP KIDS 2
-http://xlion.net:8080/15034094901029/18800196589372/278550
-#EXTINF:-1 tvg-ID="" tvg-name="Alwan Sport 1 4K" tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport",Alwan Sport 1 4K
-http://xlion.net:8080/15034094901029/18800196589372/418111
-#EXTINF:-1 tvg-ID="" tvg-name="Alwan Sport 1 HD" tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport",Alwan Sport 1 HD
-http://xlion.net:8080/15034094901029/18800196589372/418112
-#EXTINF:-1 tvg-ID="" tvg-name="Alwan Sport 1 SD" tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport",Alwan Sport 1 SD
-http://xlion.net:8080/15034094901029/18800196589372/418113
-#EXTINF:-1 tvg-ID="" tvg-name="Alwan Sport 2 4K" tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport",Alwan Sport 2 4K
-http://xlion.net:8080/15034094901029/18800196589372/418114
-#EXTINF:-1 tvg-ID="" tvg-name="Alwan Sport 2 HD" tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport",Alwan Sport 2 HD
-http://xlion.net:8080/15034094901029/18800196589372/418115
-#EXTINF:-1 tvg-ID="" tvg-name="Alwan Sport 2 SD" tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport",Alwan Sport 2 SD
-http://xlion.net:8080/15034094901029/18800196589372/418116
-#EXTINF:-1 tvg-ID="" tvg-name="Alwan Sport 3 4K" tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport",Alwan Sport 3 4K
-http://xlion.net:8080/15034094901029/18800196589372/418117
-#EXTINF:-1 tvg-ID="" tvg-name="Alwan Sport 3 HD" tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport",Alwan Sport 3 HD
-http://xlion.net:8080/15034094901029/18800196589372/418118
-#EXTINF:-1 tvg-ID="" tvg-name="Alwan Sport 3 SD" tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport",Alwan Sport 3 SD
-http://xlion.net:8080/15034094901029/18800196589372/418119
-#EXTINF:-1 tvg-ID="" tvg-name="Alwan Sport 4 4K" tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport",Alwan Sport 4 4K
-http://xlion.net:8080/15034094901029/18800196589372/418120
-#EXTINF:-1 tvg-ID="" tvg-name="Alwan Sport 4 HD" tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport",Alwan Sport 4 HD
-http://xlion.net:8080/15034094901029/18800196589372/418121
-#EXTINF:-1 tvg-ID="" tvg-name="Alwan Sport 4 SD" tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport",Alwan Sport 4 SD
-http://xlion.net:8080/15034094901029/18800196589372/418122
-#EXTINF:-1 tvg-ID="" tvg-name="Alwan Sport 5 4K" tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport",Alwan Sport 5 4K
-http://xlion.net:8080/15034094901029/18800196589372/418123
-#EXTINF:-1 tvg-ID="" tvg-name="Alwan Sport 5 HD" tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport",Alwan Sport 5 HD
-http://xlion.net:8080/15034094901029/18800196589372/418124
-#EXTINF:-1 tvg-ID="" tvg-name="Alwan Sport 5 SD" tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport",Alwan Sport 5 SD
-http://xlion.net:8080/15034094901029/18800196589372/418125
-#EXTINF:-1 tvg-ID="" tvg-name="Alwan Sport 6 4K" tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport",Alwan Sport 6 4K
-http://xlion.net:8080/15034094901029/18800196589372/418126
-#EXTINF:-1 tvg-ID="" tvg-name="Alwan Sport 6 HD" tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport",Alwan Sport 6 HD
-http://xlion.net:8080/15034094901029/18800196589372/418127
-#EXTINF:-1 tvg-ID="" tvg-name="Alwan Sport 6 SD" tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport",Alwan Sport 6 SD
-http://xlion.net:8080/15034094901029/18800196589372/418128
-#EXTINF:-1 tvg-ID="" tvg-name="Alwan Sport 7 4K" tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport",Alwan Sport 7 4K
-http://xlion.net:8080/15034094901029/18800196589372/433739
-#EXTINF:-1 tvg-ID="" tvg-name="Alwan Sport 8 4K" tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport",Alwan Sport 8 4K
-http://xlion.net:8080/15034094901029/18800196589372/433740
-#EXTINF:-1 tvg-ID="" tvg-name="Alwan Sport 9 4K" tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport",Alwan Sport 9 4K
-http://xlion.net:8080/15034094901029/18800196589372/433741
-#EXTINF:-1 tvg-ID="" tvg-name="Alwan Sport 10 4K" tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport",Alwan Sport 10 4K
-http://xlion.net:8080/15034094901029/18800196589372/433742
-#EXTINF:-1 tvg-ID="" tvg-name="Alwan F1 4K" tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport",Alwan F1 4K
-http://xlion.net:8080/15034094901029/18800196589372/433743
-#EXTINF:-1 tvg-ID="" tvg-name="Alwan WWE 4K" tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport",Alwan WWE 4K
-http://xlion.net:8080/15034094901029/18800196589372/433744
-#EXTINF:-1 tvg-ID="" tvg-name="Alwan UFC 4K" tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport",Alwan UFC 4K
-http://xlion.net:8080/15034094901029/18800196589372/433745
-#EXTINF:-1 tvg-ID="" tvg-name="Alkass 1 HD" tvg-logo="http://163.172.39.182:80/logo/kass.jpg" group-title="ARABIC SPORT",Alkass 1 HD
-http://xlion.net:8080/15034094901029/18800196589372/96214
-#EXTINF:-1 tvg-ID="" tvg-name="Alkass 2 HD" tvg-logo="http://163.172.39.182:80/logo/kass.jpg" group-title="ARABIC SPORT",Alkass 2 HD
-http://xlion.net:8080/15034094901029/18800196589372/96215
-#EXTINF:-1 tvg-ID="" tvg-name="Alkass 3 HD" tvg-logo="http://163.172.39.182:80/logo/kass.jpg" group-title="ARABIC SPORT",Alkass 3 HD
-http://xlion.net:8080/15034094901029/18800196589372/278068
-#EXTINF:-1 tvg-ID="" tvg-name="Alkass 4 HD" tvg-logo="http://163.172.39.182:80/logo/kass.jpg" group-title="ARABIC SPORT",Alkass 4 HD
-http://xlion.net:8080/15034094901029/18800196589372/96216
-#EXTINF:-1 tvg-ID="" tvg-name="Alkass 5 HD" tvg-logo="http://163.172.39.182:80/logo/kass.jpg" group-title="ARABIC SPORT",Alkass 5 HD
-http://xlion.net:8080/15034094901029/18800196589372/96217
-#EXTINF:-1 tvg-ID="" tvg-name="Alkass  6 HD" tvg-logo="http://163.172.39.182:80/logo/kass.jpg" group-title="ARABIC SPORT",Alkass  6 HD
-http://xlion.net:8080/15034094901029/18800196589372/211523
-#EXTINF:-1 tvg-ID="" tvg-name="Alkass  7 HD" tvg-logo="http://163.172.39.182:80/logo/kass.jpg" group-title="ARABIC SPORT",Alkass  7 HD
-http://xlion.net:8080/15034094901029/18800196589372/379828
-#EXTINF:-1 tvg-ID="" tvg-name="Alkass  8 HD" tvg-logo="http://163.172.39.182:80/logo/kass.jpg" group-title="ARABIC SPORT",Alkass  8 HD
-http://xlion.net:8080/15034094901029/18800196589372/379829
-#EXTINF:-1 tvg-ID="" tvg-name="Alkass 9 HD" tvg-logo="http://163.172.39.182:80/logo/kass.jpg" group-title="ARABIC SPORT",Alkass 9 HD
-http://xlion.net:8080/15034094901029/18800196589372/393991
-#EXTINF:-1 tvg-ID="" tvg-name="Alkass 10 HD" tvg-logo="http://163.172.39.182:80/logo/kass.jpg" group-title="ARABIC SPORT",Alkass 10 HD
-http://xlion.net:8080/15034094901029/18800196589372/393992
-#EXTINF:-1 tvg-ID="" tvg-name="KSA Sport 1 4K" tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="ARABIC SPORT",KSA Sport 1 4K
-http://xlion.net:8080/15034094901029/18800196589372/97805
-#EXTINF:-1 tvg-ID="" tvg-name="KSA Sport 2 4K" tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="ARABIC SPORT",KSA Sport 2 4K
-http://xlion.net:8080/15034094901029/18800196589372/97806
-#EXTINF:-1 tvg-ID="" tvg-name="KSA Sport 3 4K" tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="ARABIC SPORT",KSA Sport 3 4K
-http://xlion.net:8080/15034094901029/18800196589372/97807
-#EXTINF:-1 tvg-ID="" tvg-name="SAUDUA NOW" tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="ARABIC SPORT",SAUDUA NOW
-http://xlion.net:8080/15034094901029/18800196589372/97808
-#EXTINF:-1 tvg-ID="" tvg-name="SAUDI 24 SPORT HD" tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="ARABIC SPORT",SAUDI 24 SPORT HD
-http://xlion.net:8080/15034094901029/18800196589372/100470
-#EXTINF:-1 tvg-ID="" tvg-name="AD SPORTS 1 HD" tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="Ad Sport ",AD SPORTS 1 HD
-http://xlion.net:8080/15034094901029/18800196589372/326053
-#EXTINF:-1 tvg-ID="" tvg-name="AD SPORTS 2 HD" tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="Ad Sport ",AD SPORTS 2 HD
-http://xlion.net:8080/15034094901029/18800196589372/326054
-#EXTINF:-1 tvg-ID="" tvg-name="Dubai Sport 1 HD" tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="ARABIC SPORT",Dubai Sport 1 HD
-http://xlion.net:8080/15034094901029/18800196589372/97813
-#EXTINF:-1 tvg-ID="" tvg-name="Dubai Sport 2 HD" tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="ARABIC SPORT",Dubai Sport 2 HD
-http://xlion.net:8080/15034094901029/18800196589372/97814
-#EXTINF:-1 tvg-ID="" tvg-name="Dubai Racing 1 HD" tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="ARABIC SPORT",Dubai Racing 1 HD
-http://xlion.net:8080/15034094901029/18800196589372/97816
-#EXTINF:-1 tvg-ID="" tvg-name="On Sport HD 1" tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="ARABIC SPORT",On Sport HD 1
-http://xlion.net:8080/15034094901029/18800196589372/97820
-#EXTINF:-1 tvg-ID="" tvg-name="ON SPORTS MAX 4K" tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="ARABIC SPORT",ON SPORTS MAX 4K
-http://xlion.net:8080/15034094901029/18800196589372/97821
-#EXTINF:-1 tvg-ID="" tvg-name="AR: ON TIME SPORT FM" tvg-logo="" group-title="ARABIC SPORT",AR: ON TIME SPORT FM
-http://xlion.net:8080/15034094901029/18800196589372/399432
-#EXTINF:-1 tvg-ID="" tvg-name="ON SPORTS PLUS HD" tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="ARABIC SPORT",ON SPORTS PLUS HD
-http://xlion.net:8080/15034094901029/18800196589372/97825
-#EXTINF:-1 tvg-ID="" tvg-name="Oman Sport HD" tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="ARABIC SPORT",Oman Sport HD
-http://xlion.net:8080/15034094901029/18800196589372/97877
-#EXTINF:-1 tvg-ID="" tvg-name="KUWAIT SPORT 4K" tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="ARABIC SPORT",KUWAIT SPORT 4K
-http://xlion.net:8080/15034094901029/18800196589372/97826
-#EXTINF:-1 tvg-ID="" tvg-name="BAHRAIN SPORT 1 HD" tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="ARABIC SPORT",BAHRAIN SPORT 1 HD
-http://xlion.net:8080/15034094901029/18800196589372/66383
-#EXTINF:-1 tvg-ID="" tvg-name="YAS SPORT HD" tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="ARABIC SPORT",YAS SPORT HD
-http://xlion.net:8080/15034094901029/18800196589372/328659
-#EXTINF:-1 tvg-ID="" tvg-name="ALRABIAA SPORT 4K" tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="ARABIC SPORT",ALRABIAA SPORT 4K
-http://xlion.net:8080/15034094901029/18800196589372/328660
-#EXTINF:-1 tvg-ID="" tvg-name="LIBYA SPORT 2 4K" tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="ARABIC SPORT",LIBYA SPORT 2 4K
-http://xlion.net:8080/15034094901029/18800196589372/328661
-#EXTINF:-1 tvg-ID="" tvg-name="BAHRAIN SPORT 2 HD" tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="ARABIC SPORT",BAHRAIN SPORT 2 HD
-http://xlion.net:8080/15034094901029/18800196589372/328662
-#EXTINF:-1 tvg-ID="" tvg-name="KUWAIT SPORT PLUS 4K" tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="ARABIC SPORT",KUWAIT SPORT PLUS 4K
-http://xlion.net:8080/15034094901029/18800196589372/328663
-#EXTINF:-1 tvg-ID="" tvg-name="PALASTINE SPORT 4K" tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="ARABIC SPORT",PALASTINE SPORT 4K
-http://xlion.net:8080/15034094901029/18800196589372/328664
-#EXTINF:-1 tvg-ID="" tvg-name="Iraqia Sport" tvg-logo="http://163.172.39.182:80/logo/countryies/IRAQ.png" group-title="ARABIC SPORT",Iraqia Sport
-http://xlion.net:8080/15034094901029/18800196589372/107038
-#EXTINF:-1 tvg-ID="" tvg-name="ufm radio" tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="ARABIC SPORT",ufm radio
-http://xlion.net:8080/15034094901029/18800196589372/267050
-#EXTINF:-1 tvg-ID="" tvg-name="Sharjah Sport HD" tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="ARABIC SPORT",Sharjah Sport HD
-http://xlion.net:8080/15034094901029/18800196589372/141797
-#EXTINF:-1 tvg-ID="" tvg-name="Libya Sport 1 TV" tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="ARABIC SPORT",Libya Sport 1 TV
-http://xlion.net:8080/15034094901029/18800196589372/97818
-#EXTINF:-1 tvg-ID="" tvg-name="Jordan Sport TV" tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="ARABIC SPORT",Jordan Sport TV
-http://xlion.net:8080/15034094901029/18800196589372/109699
-#EXTINF:-1 tvg-ID="" tvg-name="Zamalik" tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="ARABIC SPORT",Zamalik
-http://xlion.net:8080/15034094901029/18800196589372/97822
-#EXTINF:-1 tvg-ID="" tvg-name="Nile Sport" tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="ARABIC SPORT",Nile Sport
-http://xlion.net:8080/15034094901029/18800196589372/97824
-#EXTINF:-1 tvg-ID="" tvg-name="Al Ahly TV" tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="ARABIC SPORT",Al Ahly TV
-http://xlion.net:8080/15034094901029/18800196589372/97823
-#EXTINF:-1 tvg-ID="" tvg-name="PalestineSport" tvg-logo="" group-title="ARABIC SPORT",PalestineSport
-http://xlion.net:8080/15034094901029/18800196589372/417306
-#EXTINF:-1 tvg-ID="" tvg-name="KU: Duhok Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sport",KU: Duhok Sport
-http://xlion.net:8080/15034094901029/18800196589372/358226
-#EXTINF:-1 tvg-ID="" tvg-name="KU: LD Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sport",KU: LD Sport
-http://xlion.net:8080/15034094901029/18800196589372/358229
-#EXTINF:-1 tvg-ID="" tvg-name="KU: See Sport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sport",KU: See Sport 1
-http://xlion.net:8080/15034094901029/18800196589372/358222
-#EXTINF:-1 tvg-ID="" tvg-name="KU: See Sport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sport",KU: See Sport 2
-http://xlion.net:8080/15034094901029/18800196589372/358223
-#EXTINF:-1 tvg-ID="" tvg-name="KU: See Sport 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sport",KU: See Sport 3
-http://xlion.net:8080/15034094901029/18800196589372/358224
-#EXTINF:-1 tvg-ID="" tvg-name="KU: Ava Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sport",KU: Ava Sport
-http://xlion.net:8080/15034094901029/18800196589372/358221
-#EXTINF:-1 tvg-ID="" tvg-name="KU: Aro Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sport",KU: Aro Sport
-http://xlion.net:8080/15034094901029/18800196589372/358225
-#EXTINF:-1 tvg-ID="" tvg-name="KU: 4 Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sport",KU: 4 Sport
-http://xlion.net:8080/15034094901029/18800196589372/358227
-#EXTINF:-1 tvg-ID="" tvg-name="KU: Astera Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sport",KU: Astera Sport
-http://xlion.net:8080/15034094901029/18800196589372/358228
-#EXTINF:-1 tvg-ID="" tvg-name="KU: NRT Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sport",KU: NRT Sport
-http://xlion.net:8080/15034094901029/18800196589372/358220
-#EXTINF:-1 tvg-ID="" tvg-name="KU: Kurdistan Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sport",KU: Kurdistan Sport
-http://xlion.net:8080/15034094901029/18800196589372/358219
-#EXTINF:-1 tvg-ID="" tvg-name="KU: Dasinya Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sport",KU: Dasinya Sport
-http://xlion.net:8080/15034094901029/18800196589372/358230
-#EXTINF:-1 tvg-ID="" tvg-name="KU: MTV Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sport",KU: MTV Sport
-http://xlion.net:8080/15034094901029/18800196589372/358231
-#EXTINF:-1 tvg-ID="" tvg-name="KU:Aso Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sport",KU:Aso Sport
-http://xlion.net:8080/15034094901029/18800196589372/358232
-#EXTINF:-1 tvg-ID="" tvg-name="KU: Newline Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sport",KU: Newline Sport
-http://xlion.net:8080/15034094901029/18800196589372/358233
-#EXTINF:-1 tvg-ID="" tvg-name="KU: MMN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sport",KU: MMN SPORT
-http://xlion.net:8080/15034094901029/18800196589372/358234
-#EXTINF:-1 tvg-ID="" tvg-name="KU: NUBAR SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sport",KU: NUBAR SPORT
-http://xlion.net:8080/15034094901029/18800196589372/358235
-#EXTINF:-1 tvg-ID="" tvg-name="KU: SIMA SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sport",KU: SIMA SPORT
-http://xlion.net:8080/15034094901029/18800196589372/358236
-#EXTINF:-1 tvg-ID="" tvg-name="KU: Zaxo Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sport",KU: Zaxo Sport
-http://xlion.net:8080/15034094901029/18800196589372/358237
-#EXTINF:-1 tvg-ID="" tvg-name="KU: LD SPORT CHEAK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sport",KU: LD SPORT CHEAK
-http://xlion.net:8080/15034094901029/18800196589372/358238
-#EXTINF:-1 tvg-ID="" tvg-name="KU: Delal Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sport",KU: Delal Sport
-http://xlion.net:8080/15034094901029/18800196589372/358239
- 
+#EXTINF:-1 tvg-ID="" tvg-name="•●★-----|FR| BEIN SPORTS |FR|-----★●•" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/225px-Flag_of_France.svg.png" group-title="ⓣⓥ ║  FRANCE SPORT",•●★-----|FR| BEIN SPORTS |FR|-----★●•
+http://foxbleu.org:80/ludovic/8333/59410
+#EXTINF:-1 tvg-ID="beinSports1.fr" tvg-name="FR | BEIN SPORTS 1 FHD" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/beinsports1_fr.png" group-title="ⓣⓥ ║  FRANCE SPORT",FR | BEIN SPORTS 1 FHD
+http://foxbleu.org:80/ludovic/8333/14160
+#EXTINF:-1 tvg-ID="beinSports1.fr" tvg-name="FR | BEIN SPORTS 1 HD" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/beinsports1_fr.png" group-title="ⓣⓥ ║  FRANCE SPORT",FR | BEIN SPORTS 1 HD
+http://foxbleu.org:80/ludovic/8333/14170
+#EXTINF:-1 tvg-ID="beinSports1.fr" tvg-name="FR | BEIN SPORTS 1 SD" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/beinsports1_fr.png" group-title="ⓣⓥ ║  FRANCE SPORT",FR | BEIN SPORTS 1 SD
+http://foxbleu.org:80/ludovic/8333/92
+#EXTINF:-1 tvg-ID="beinSports2.fr" tvg-name="FR | BEIN SPORTS 2 FHD" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/beinsports2_fr.png" group-title="ⓣⓥ ║  FRANCE SPORT",FR | BEIN SPORTS 2 FHD
+http://foxbleu.org:80/ludovic/8333/14153
+#EXTINF:-1 tvg-ID="beinSports2.fr" tvg-name="FR | BEIN SPORTS 2 HD" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/beinsports2_fr.png" group-title="ⓣⓥ ║  FRANCE SPORT",FR | BEIN SPORTS 2 HD
+http://foxbleu.org:80/ludovic/8333/14169
+#EXTINF:-1 tvg-ID="beinSports2.fr" tvg-name="FR | BEIN SPORTS 2 SD" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/beinsports2_fr.png" group-title="ⓣⓥ ║  FRANCE SPORT",FR | BEIN SPORTS 2 SD
+http://foxbleu.org:80/ludovic/8333/93
+#EXTINF:-1 tvg-ID="beinSports3.fr" tvg-name="FR | BEIN SPORTS 3 FHD" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/beinsports3_fr.png" group-title="ⓣⓥ ║  FRANCE SPORT",FR | BEIN SPORTS 3 FHD
+http://foxbleu.org:80/ludovic/8333/14152
+#EXTINF:-1 tvg-ID="beinSports3.fr" tvg-name="FR | BEIN SPORTS 3 HD" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/beinsports3_fr.png" group-title="ⓣⓥ ║  FRANCE SPORT",FR | BEIN SPORTS 3 HD
+http://foxbleu.org:80/ludovic/8333/14163
+#EXTINF:-1 tvg-ID="beinSports3.fr" tvg-name="FR | BEIN SPORTS 3 SD" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/beinsports3_fr.png" group-title="ⓣⓥ ║  FRANCE SPORT",FR | BEIN SPORTS 3 SD
+http://foxbleu.org:80/ludovic/8333/94
+#EXTINF:-1 tvg-ID="Bein4Max.fr" tvg-name="FR | BEIN SPORTS MAX 4 FHD" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/beinsportsmax4_fr.png" group-title="ⓣⓥ ║  FRANCE SPORT",FR | BEIN SPORTS MAX 4 FHD
+http://foxbleu.org:80/ludovic/8333/151958
+#EXTINF:-1 tvg-ID="Bein4Max.fr" tvg-name="FR | BEIN SPORTS MAX 4 HD" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/beinsportsmax4_fr.png" group-title="ⓣⓥ ║  FRANCE SPORT",FR | BEIN SPORTS MAX 4 HD
+http://foxbleu.org:80/ludovic/8333/95
+#EXTINF:-1 tvg-ID="Bein5Max.fr" tvg-name="FR | BEIN SPORTS MAX 5 FHD" tvg-logo="https://logoipro2.com/LOGO/FRANCE%20OTT/beinsportsmax5_fr.png" group-title="ⓣⓥ ║  FRANCE SPORT",FR | BEIN SPORTS MAX 5 FHD
+http://foxbleu.org:80/ludovic/8333/151961
+#EXTINF:-1 tvg-ID="Bein5Max.fr" tvg-name="FR | BEIN SPORTS MAX 5 HD" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/beinsportsmax5_fr.png" group-title="ⓣⓥ ║  FRANCE SPORT",FR | BEIN SPORTS MAX 5 HD
+http://foxbleu.org:80/ludovic/8333/39882
+#EXTINF:-1 tvg-ID="Bein6Max.fr" tvg-name="FR | BEIN SPORTS MAX 6 FHD" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/beinsportsmax6_fr.png" group-title="ⓣⓥ ║  FRANCE SPORT",FR | BEIN SPORTS MAX 6 FHD
+http://foxbleu.org:80/ludovic/8333/151964
+#EXTINF:-1 tvg-ID="Bein6Max.fr" tvg-name="FR | BEIN SPORTS MAX 6 HD" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/beinsportsmax6_fr.png" group-title="ⓣⓥ ║  FRANCE SPORT",FR | BEIN SPORTS MAX 6 HD
+http://foxbleu.org:80/ludovic/8333/1089
+#EXTINF:-1 tvg-ID="Bein7Max.fr" tvg-name="FR | BEIN SPORTS MAX 7 FHD" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/beinsportsmax7_fr.png" group-title="ⓣⓥ ║  FRANCE SPORT",FR | BEIN SPORTS MAX 7 FHD
+http://foxbleu.org:80/ludovic/8333/151967
+#EXTINF:-1 tvg-ID="Bein7Max.fr" tvg-name="FR | BEIN SPORTS MAX 7 HD" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/beinsportsmax7_fr.png" group-title="ⓣⓥ ║  FRANCE SPORT",FR | BEIN SPORTS MAX 7 HD
+http://foxbleu.org:80/ludovic/8333/1113
+#EXTINF:-1 tvg-ID="Bein8Max.fr" tvg-name="FR | BEIN SPORTS MAX 8 FHD" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/beinsportsmax8_fr.png" group-title="ⓣⓥ ║  FRANCE SPORT",FR | BEIN SPORTS MAX 8 FHD
+http://foxbleu.org:80/ludovic/8333/151970
+#EXTINF:-1 tvg-ID="Bein8Max.fr" tvg-name="FR | BEIN SPORTS MAX 8 HD" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/beinsportsmax8_fr.png" group-title="ⓣⓥ ║  FRANCE SPORT",FR | BEIN SPORTS MAX 8 HD
+http://foxbleu.org:80/ludovic/8333/1468
+#EXTINF:-1 tvg-ID="Bein9Max.fr" tvg-name="FR | BEIN SPORTS MAX 9 FHD" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/beinsportsmax9_fr.png" group-title="ⓣⓥ ║  FRANCE SPORT",FR | BEIN SPORTS MAX 9 FHD
+http://foxbleu.org:80/ludovic/8333/151973
+#EXTINF:-1 tvg-ID="Bein9Max.fr" tvg-name="FR | BEIN SPORTS MAX 9 HD" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/beinsportsmax9_fr.png" group-title="ⓣⓥ ║  FRANCE SPORT",FR | BEIN SPORTS MAX 9 HD
+http://foxbleu.org:80/ludovic/8333/1469
+#EXTINF:-1 tvg-ID="Bein10Max.fr" tvg-name="FR | BEIN SPORTS MAX 10 FHD" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/beinsportsmax10_fr.png" group-title="ⓣⓥ ║  FRANCE SPORT",FR | BEIN SPORTS MAX 10 FHD
+http://foxbleu.org:80/ludovic/8333/151976
+#EXTINF:-1 tvg-ID="Bein10Max.fr" tvg-name="FR | BEIN SPORTS MAX 10 HD" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/beinsportsmax10_fr.png" group-title="ⓣⓥ ║  FRANCE SPORT",FR | BEIN SPORTS MAX 10 HD
+http://foxbleu.org:80/ludovic/8333/1470
+#EXTINF:-1 tvg-ID="" tvg-name="•●★---|FR| SPORT FRANCE |FR|---★●•" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/225px-Flag_of_France.svg.png" group-title="ⓣⓥ ║  FRANCE SPORT",•●★---|FR| SPORT FRANCE |FR|---★●•
+http://foxbleu.org:80/ludovic/8333/24929
+#EXTINF:-1 tvg-ID="viaVosges.ch" tvg-name="FR | FRANCE TV SPORTS FHD" tvg-logo="https://i.ibb.co/ZRQJfrZs/output-onlinepngtools-11.png" group-title="ⓣⓥ ║  FRANCE SPORT",FR | FRANCE TV SPORTS FHD
+http://foxbleu.org:80/ludovic/8333/434274
+#EXTINF:-1 tvg-ID="" tvg-name="FR | FRANCE TV SPORTS HD" tvg-logo="https://i.ibb.co/ZRQJfrZs/output-onlinepngtools-11.png" group-title="ⓣⓥ ║  FRANCE SPORT",FR | FRANCE TV SPORTS HD
+http://foxbleu.org:80/ludovic/8333/434275
+#EXTINF:-1 tvg-ID="CanalPlusPremierLeague.fr" tvg-name="FR | CANAL+ PREMIER LEAGUE FHD" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/canalpluspremierleague.png" group-title="ⓣⓥ ║  FRANCE SPORT",FR | CANAL+ PREMIER LEAGUE FHD
+http://foxbleu.org:80/ludovic/8333/116520
+#EXTINF:-1 tvg-ID="CanalPlusPremierLeague.fr" tvg-name="FR | CANAL+ PREMIER LEAGUE HD" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/canalpluspremierleague.png" group-title="ⓣⓥ ║  FRANCE SPORT",FR | CANAL+ PREMIER LEAGUE HD
+http://foxbleu.org:80/ludovic/8333/116522
+#EXTINF:-1 tvg-ID="OLTV.fr" tvg-name="FR | OL TV FHD" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/OLTV.png" group-title="ⓣⓥ ║  FRANCE SPORT",FR | OL TV FHD
+http://foxbleu.org:80/ludovic/8333/13842
+#EXTINF:-1 tvg-ID="EquidiaLive.fr" tvg-name="FR | EQUIDIA FHD" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/Equidia.png" group-title="ⓣⓥ ║  FRANCE SPORT",FR | EQUIDIA FHD
+http://foxbleu.org:80/ludovic/8333/14012
+#EXTINF:-1 tvg-ID="EquidiaLive.fr" tvg-name="FR | EQUIDIA HD" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/Equidia.png" group-title="ⓣⓥ ║  FRANCE SPORT",FR | EQUIDIA HD
+http://foxbleu.org:80/ludovic/8333/436264
+#EXTINF:-1 tvg-ID="" tvg-name="FR| EQUIDIA RACING 1 FHD" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/54/d0/a554d057-bd89-5e0d-14e0-b727d21e00e3/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/256x256bb.jpg" group-title="ⓣⓥ ║  FRANCE SPORT",FR| EQUIDIA RACING 1 FHD
+http://foxbleu.org:80/ludovic/8333/436272
+#EXTINF:-1 tvg-ID="" tvg-name="FR| EQUIDIA RACING 2 FHD" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/54/d0/a554d057-bd89-5e0d-14e0-b727d21e00e3/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/256x256bb.jpg" group-title="ⓣⓥ ║  FRANCE SPORT",FR| EQUIDIA RACING 2 FHD
+http://foxbleu.org:80/ludovic/8333/436271
+#EXTINF:-1 tvg-ID="" tvg-name="FR| EQUIDIA RACING 3 FHD" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/54/d0/a554d057-bd89-5e0d-14e0-b727d21e00e3/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/256x256bb.jpg" group-title="ⓣⓥ ║  FRANCE SPORT",FR| EQUIDIA RACING 3 FHD
+http://foxbleu.org:80/ludovic/8333/436270
+#EXTINF:-1 tvg-ID="" tvg-name="FR| EQUIDIA RACING 4 FHD" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/54/d0/a554d057-bd89-5e0d-14e0-b727d21e00e3/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/256x256bb.jpg" group-title="ⓣⓥ ║  FRANCE SPORT",FR| EQUIDIA RACING 4 FHD
+http://foxbleu.org:80/ludovic/8333/436269
+#EXTINF:-1 tvg-ID="" tvg-name="FR| EQUIDIA RACING 5 FHD" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/54/d0/a554d057-bd89-5e0d-14e0-b727d21e00e3/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/256x256bb.jpg" group-title="ⓣⓥ ║  FRANCE SPORT",FR| EQUIDIA RACING 5 FHD
+http://foxbleu.org:80/ludovic/8333/436268
+#EXTINF:-1 tvg-ID="" tvg-name="FR| EQUIDIA RACING GALOP FHD" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/54/d0/a554d057-bd89-5e0d-14e0-b727d21e00e3/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/256x256bb.jpg" group-title="ⓣⓥ ║  FRANCE SPORT",FR| EQUIDIA RACING GALOP FHD
+http://foxbleu.org:80/ludovic/8333/436267
+#EXTINF:-1 tvg-ID="" tvg-name="FR| EQUIDIA RACING MAG FHD" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/54/d0/a554d057-bd89-5e0d-14e0-b727d21e00e3/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/256x256bb.jpg" group-title="ⓣⓥ ║  FRANCE SPORT",FR| EQUIDIA RACING MAG FHD
+http://foxbleu.org:80/ludovic/8333/436266
+#EXTINF:-1 tvg-ID="" tvg-name="FR| EQUIDIA RACING TROT FHD" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/54/d0/a554d057-bd89-5e0d-14e0-b727d21e00e3/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/256x256bb.jpg" group-title="ⓣⓥ ║  FRANCE SPORT",FR| EQUIDIA RACING TROT FHD
+http://foxbleu.org:80/ludovic/8333/436265
+#EXTINF:-1 tvg-ID="TRACESportStars.fr" tvg-name="FR | TRACE SPORT STAR FHD" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/tracesportsstars.png" group-title="ⓣⓥ ║  FRANCE SPORT",FR | TRACE SPORT STAR FHD
+http://foxbleu.org:80/ludovic/8333/97057
+#EXTINF:-1 tvg-ID="motorstv.fr" tvg-name="FR | MOTORVISION FHD" tvg-logo="https://freecast.com/_next/image?url=https%3A%2F%2Fd3e3bui7xn67l.cloudfront.net%2Fcms_media%2Fmedia%2Flive%2Fchannel%2F088ce610-528c-453a-b2d7-f706c7914d2a-1762957479.138074.256x256.jpg&w=256&q=75" group-title="ⓣⓥ ║  FRANCE SPORT",FR | MOTORVISION FHD
+http://foxbleu.org:80/ludovic/8333/13782
+#EXTINF:-1 tvg-ID="" tvg-name="FR | SPORT EN FRANCE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/Sport_en_France_Logo.png/420px-Sport_en_France_Logo.png" group-title="ⓣⓥ ║  FRANCE SPORT",FR | SPORT EN FRANCE FHD
+http://foxbleu.org:80/ludovic/8333/120240
+#EXTINF:-1 tvg-ID="NBA.HD.nabil" tvg-name="FR | NBA TV" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/NBA-Tv.png" group-title="ⓣⓥ ║  FRANCE SPORT",FR | NBA TV
+http://foxbleu.org:80/ludovic/8333/46216
+#EXTINF:-1 tvg-ID="" tvg-name="FR | WWE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/WWE_official_logo.svg" group-title="ⓣⓥ ║  FRANCE SPORT",FR | WWE HD
+http://foxbleu.org:80/ludovic/8333/303579
+#EXTINF:-1 tvg-ID="ExtremeSports.fr" tvg-name="FR | EXTREME SPORTS" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/extremesports.png" group-title="ⓣⓥ ║  FRANCE SPORT",FR | EXTREME SPORTS
+http://foxbleu.org:80/ludovic/8333/13740
+#EXTINF:-1 tvg-ID="Automoto.fr" tvg-name="FR | AUTOMOTO  FHD" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/Automoto_blanc.png" group-title="ⓣⓥ ║  FRANCE SPORT",FR | AUTOMOTO  FHD
+http://foxbleu.org:80/ludovic/8333/1035
+#EXTINF:-1 tvg-ID="Brazzers TV Adult" tvg-name="FR | LUCKY JACK HD" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/luckyjack.png" group-title="ⓣⓥ ║  FRANCE SPORT",FR | LUCKY JACK HD
+http://foxbleu.org:80/ludovic/8333/42548
+#EXTINF:-1 tvg-ID="eurosport1.fr" tvg-name="FR | EUROSPORT 1 FHD" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/Eurosport1_blanc.png" group-title="ⓣⓥ ║  FRANCE SPORT",FR | EUROSPORT 1 FHD
+http://foxbleu.org:80/ludovic/8333/13742
+#EXTINF:-1 tvg-ID="eurosport1.fr" tvg-name="FR | EUROSPORT 1 HD" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/Eurosport1_blanc.png" group-title="ⓣⓥ ║  FRANCE SPORT",FR | EUROSPORT 1 HD
+http://foxbleu.org:80/ludovic/8333/14011
+#EXTINF:-1 tvg-ID="eurosport1.fr" tvg-name="FR | EUROSPORT 1 SD" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/Eurosport1_blanc.png" group-title="ⓣⓥ ║  FRANCE SPORT",FR | EUROSPORT 1 SD
+http://foxbleu.org:80/ludovic/8333/57859
+#EXTINF:-1 tvg-ID="eurosport2.fr" tvg-name="FR | EUROSPORT 2 FHD" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/Eurosport2_blanc.png" group-title="ⓣⓥ ║  FRANCE SPORT",FR | EUROSPORT 2 FHD
+http://foxbleu.org:80/ludovic/8333/13741
+#EXTINF:-1 tvg-ID="eurosport2.fr" tvg-name="FR | EUROSPORT 2 HD" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/Eurosport2_blanc.png" group-title="ⓣⓥ ║  FRANCE SPORT",FR | EUROSPORT 2 HD
+http://foxbleu.org:80/ludovic/8333/14010
+#EXTINF:-1 tvg-ID="eurosport2.fr" tvg-name="FR | EUROSPORT 2 SD" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/Eurosport2_blanc.png" group-title="ⓣⓥ ║  FRANCE SPORT",FR | EUROSPORT 2 SD
+http://foxbleu.org:80/ludovic/8333/57860
+#EXTINF:-1 tvg-ID="eurosport3601.fr" tvg-name="FR | EUROSPORT 360 1 HD" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/Eurosport360_blanc.png" group-title="ⓣⓥ ║  FRANCE SPORT",FR | EUROSPORT 360 1 HD
+http://foxbleu.org:80/ludovic/8333/116512
+#EXTINF:-1 tvg-ID="eurosport3602.fr" tvg-name="FR | EUROSPORT 360 2 HD" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/Eurosport360_blanc.png" group-title="ⓣⓥ ║  FRANCE SPORT",FR | EUROSPORT 360 2 HD
+http://foxbleu.org:80/ludovic/8333/116513
+#EXTINF:-1 tvg-ID="eurosport3603.fr" tvg-name="FR | EUROSPORT 360 3 HD" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/Eurosport360_blanc.png" group-title="ⓣⓥ ║  FRANCE SPORT",FR | EUROSPORT 360 3 HD
+http://foxbleu.org:80/ludovic/8333/116519
+#EXTINF:-1 tvg-ID="eurosport3604.fr" tvg-name="FR | EUROSPORT 360 4 HD" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/Eurosport360_blanc.png" group-title="ⓣⓥ ║  FRANCE SPORT",FR | EUROSPORT 360 4 HD
+http://foxbleu.org:80/ludovic/8333/116518
+#EXTINF:-1 tvg-ID="eurosport3605.fr" tvg-name="FR | EUROSPORT 360 5 HD" tvg-logo="https://logoipro2.com/LOGO/FRANCE%20OTT/Eurosport360_blanc.png" group-title="ⓣⓥ ║  FRANCE SPORT",FR | EUROSPORT 360 5 HD
+http://foxbleu.org:80/ludovic/8333/116517
+#EXTINF:-1 tvg-ID="eurosport3606.fr" tvg-name="FR | EUROSPORT 360 6 HD" tvg-logo="https://logoipro2.com/LOGO/FRANCE%20OTT/Eurosport360_blanc.png" group-title="ⓣⓥ ║  FRANCE SPORT",FR | EUROSPORT 360 6 HD
+http://foxbleu.org:80/ludovic/8333/116516
+#EXTINF:-1 tvg-ID="eurosport3607.fr" tvg-name="FR | EUROSPORT 360 7 HD" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/Eurosport360_blanc.png" group-title="ⓣⓥ ║  FRANCE SPORT",FR | EUROSPORT 360 7 HD
+http://foxbleu.org:80/ludovic/8333/116515
+#EXTINF:-1 tvg-ID="eurosport3608.fr" tvg-name="FR | EUROSPORT 360 8 HD" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/Eurosport360_blanc.png" group-title="ⓣⓥ ║  FRANCE SPORT",FR | EUROSPORT 360 8 HD
+http://foxbleu.org:80/ludovic/8333/116514
+#EXTINF:-1 tvg-ID="" tvg-name="FR | L'EQUIPE LIVE FOOT HD" tvg-logo="https://i.ibb.co/N6S3pQP/71474.jpg" group-title="ⓣⓥ ║  FRANCE SPORT",FR | L'EQUIPE LIVE FOOT HD
+http://foxbleu.org:80/ludovic/8333/82627
+#EXTINF:-1 tvg-ID="" tvg-name="FR | LEQUIPE LIVE  1 FHD" tvg-logo="https://www.tv-direct.net/wp-content/uploads/2017/07/equipe-tv.jpg" group-title="ⓣⓥ ║  FRANCE SPORT",FR | LEQUIPE LIVE  1 FHD
+http://foxbleu.org:80/ludovic/8333/201052
+#EXTINF:-1 tvg-ID="" tvg-name="FR | LEQUIPE LIVE  2 FHD" tvg-logo="https://www.tv-direct.net/wp-content/uploads/2017/07/equipe-tv.jpg" group-title="ⓣⓥ ║  FRANCE SPORT",FR | LEQUIPE LIVE  2 FHD
+http://foxbleu.org:80/ludovic/8333/201050
+#EXTINF:-1 tvg-ID="" tvg-name="FR | LEQUIPE LIVE  3 FHD" tvg-logo="https://www.tv-direct.net/wp-content/uploads/2017/07/equipe-tv.jpg" group-title="ⓣⓥ ║  FRANCE SPORT",FR | LEQUIPE LIVE  3 FHD
+http://foxbleu.org:80/ludovic/8333/201048
+#EXTINF:-1 tvg-ID="" tvg-name="FR | LEQUIPE LIVE 4 FHD" tvg-logo="https://www.tv-direct.net/wp-content/uploads/2017/07/equipe-tv.jpg" group-title="ⓣⓥ ║  FRANCE SPORT",FR | LEQUIPE LIVE 4 FHD
+http://foxbleu.org:80/ludovic/8333/201046
+#EXTINF:-1 tvg-ID="" tvg-name="FR | LEQUIPE LIVE 5 FHD" tvg-logo="https://www.tv-direct.net/wp-content/uploads/2017/07/equipe-tv.jpg" group-title="ⓣⓥ ║  FRANCE SPORT",FR | LEQUIPE LIVE 5 FHD
+http://foxbleu.org:80/ludovic/8333/201044
+#EXTINF:-1 tvg-ID="" tvg-name="FR | LEQUIPE LIVE 6 FHD" tvg-logo="https://www.tv-direct.net/wp-content/uploads/2017/07/equipe-tv.jpg" group-title="ⓣⓥ ║  FRANCE SPORT",FR | LEQUIPE LIVE 6 FHD
+http://foxbleu.org:80/ludovic/8333/201042
+#EXTINF:-1 tvg-ID="" tvg-name="FR | LEQUIPE LIVE 7 FHD" tvg-logo="https://www.tv-direct.net/wp-content/uploads/2017/07/equipe-tv.jpg" group-title="ⓣⓥ ║  FRANCE SPORT",FR | LEQUIPE LIVE 7 FHD
+http://foxbleu.org:80/ludovic/8333/201040
+#EXTINF:-1 tvg-ID="" tvg-name="FR | LEQUIPE LIVE 8 FHD" tvg-logo="https://www.tv-direct.net/wp-content/uploads/2017/07/equipe-tv.jpg" group-title="ⓣⓥ ║  FRANCE SPORT",FR | LEQUIPE LIVE 8 FHD
+http://foxbleu.org:80/ludovic/8333/201038
+#EXTINF:-1 tvg-ID="" tvg-name="FR | LEQUIPE LIVE 9 FHD" tvg-logo="https://www.tv-direct.net/wp-content/uploads/2017/07/equipe-tv.jpg" group-title="ⓣⓥ ║  FRANCE SPORT",FR | LEQUIPE LIVE 9 FHD
+http://foxbleu.org:80/ludovic/8333/201041
+#EXTINF:-1 tvg-ID="" tvg-name="FR | GLORY LIVE FHD" tvg-logo="http://whoatv.com/wp-content/uploads/2015/02/GLORY_WS.png" group-title="ⓣⓥ ║  FRANCE SPORT",FR | GLORY LIVE FHD
+http://foxbleu.org:80/ludovic/8333/201990
+#EXTINF:-1 tvg-ID="" tvg-name="FR | GLORY LIVE HD" tvg-logo="http://whoatv.com/wp-content/uploads/2015/02/GLORY_WS.png" group-title="ⓣⓥ ║  FRANCE SPORT",FR | GLORY LIVE HD
+http://foxbleu.org:80/ludovic/8333/201989
+#EXTINF:-1 tvg-ID="" tvg-name="•●★---|FR| SPORT GOLF |FR|---★●•" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/225px-Flag_of_France.svg.png" group-title="ⓣⓥ ║  FRANCE SPORT",•●★---|FR| SPORT GOLF |FR|---★●•
+http://foxbleu.org:80/ludovic/8333/24930
+#EXTINF:-1 tvg-ID="Golfplus.fr" tvg-name="FR | GOLF+ FHD" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/Golfplus.png" group-title="ⓣⓥ ║  FRANCE SPORT",FR | GOLF+ FHD
+http://foxbleu.org:80/ludovic/8333/13734
+#EXTINF:-1 tvg-ID="Golfplus.fr" tvg-name="FR | GOLF+ HD" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/Golfplus.png" group-title="ⓣⓥ ║  FRANCE SPORT",FR | GOLF+ HD
+http://foxbleu.org:80/ludovic/8333/117003
+#EXTINF:-1 tvg-ID="" tvg-name="FR | JOURNAL DU GOLF HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_officiel_Journal_du_Golf.png/150px-Logo_officiel_Journal_du_Golf.png" group-title="ⓣⓥ ║  FRANCE SPORT",FR | JOURNAL DU GOLF HD
+http://foxbleu.org:80/ludovic/8333/351811
+#EXTINF:-1 tvg-ID="Golfplus.fr" tvg-name="FR | GOLF CHANNEL FHD" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/GolfChannel.png" group-title="ⓣⓥ ║  FRANCE SPORT",FR | GOLF CHANNEL FHD
+http://foxbleu.org:80/ludovic/8333/13689
+#EXTINF:-1 tvg-ID="" tvg-name="-• ✬● FR | SKWEEK CHAINES | FR ●✬•-" tvg-logo="" group-title="ⓣⓥ ║  FRANCE SPORT",-• ✬● FR | SKWEEK CHAINES | FR ●✬•-
+http://foxbleu.org:80/ludovic/8333/201053
+#EXTINF:-1 tvg-ID="" tvg-name="FR | SKWEEK (EVENT) 1 FHD" tvg-logo="https://i.ibb.co/dbY1hDR/output-onlinepngtools-22.png" group-title="ⓣⓥ ║  FRANCE SPORT",FR | SKWEEK (EVENT) 1 FHD
+http://foxbleu.org:80/ludovic/8333/203680
+#EXTINF:-1 tvg-ID="" tvg-name="FR | SKWEEK (EVENT) 2 FHD" tvg-logo="https://i.ibb.co/dbY1hDR/output-onlinepngtools-22.png" group-title="ⓣⓥ ║  FRANCE SPORT",FR | SKWEEK (EVENT) 2 FHD
+http://foxbleu.org:80/ludovic/8333/203679
+#EXTINF:-1 tvg-ID="" tvg-name="FR | SKWEEK (EVENT) 3 FHD" tvg-logo="https://i.ibb.co/dbY1hDR/output-onlinepngtools-22.png" group-title="ⓣⓥ ║  FRANCE SPORT",FR | SKWEEK (EVENT) 3 FHD
+http://foxbleu.org:80/ludovic/8333/203678
+#EXTINF:-1 tvg-ID="" tvg-name="FR | SKWEEK (EVENT) 4 FHD" tvg-logo="https://i.ibb.co/dbY1hDR/output-onlinepngtools-22.png" group-title="ⓣⓥ ║  FRANCE SPORT",FR | SKWEEK (EVENT) 4 FHD
+http://foxbleu.org:80/ludovic/8333/203677
+#EXTINF:-1 tvg-ID="" tvg-name="FR | SKWEEK (EVENT) 5 FHD" tvg-logo="https://i.ibb.co/dbY1hDR/output-onlinepngtools-22.png" group-title="ⓣⓥ ║  FRANCE SPORT",FR | SKWEEK (EVENT) 5 FHD
+http://foxbleu.org:80/ludovic/8333/203676
+#EXTINF:-1 tvg-ID="" tvg-name="FR | SKWEEK (EVENT) 6 FHD" tvg-logo="https://i.ibb.co/dbY1hDR/output-onlinepngtools-22.png" group-title="ⓣⓥ ║  FRANCE SPORT",FR | SKWEEK (EVENT) 6 FHD
+http://foxbleu.org:80/ludovic/8333/203675
+#EXTINF:-1 tvg-ID="" tvg-name="FR | SKWEEK (EVENT) 7 FHD" tvg-logo="https://i.ibb.co/dbY1hDR/output-onlinepngtools-22.png" group-title="ⓣⓥ ║  FRANCE SPORT",FR | SKWEEK (EVENT) 7 FHD
+http://foxbleu.org:80/ludovic/8333/203674
+#EXTINF:-1 tvg-ID="" tvg-name="FR | SKWEEK (EVENT) 8 FHD" tvg-logo="https://i.ibb.co/dbY1hDR/output-onlinepngtools-22.png" group-title="ⓣⓥ ║  FRANCE SPORT",FR | SKWEEK (EVENT) 8 FHD
+http://foxbleu.org:80/ludovic/8333/203673
+#EXTINF:-1 tvg-ID="" tvg-name="-• ✬●FR | DAZN (EVENTS) | FR ●✬•-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/640px-Dazn-logo.png" group-title="ⓣⓥ ║  LIGUE1+ & DAZN FRANCE",-• ✬●FR | DAZN (EVENTS) | FR ●✬•-
+http://foxbleu.org:80/ludovic/8333/297225
+#EXTINF:-1 tvg-ID="" tvg-name="FR | PPV LIVE EVENEMENT HD" tvg-logo="https://www.ppvliveevents.com/templates/business/blocks/business_header_logo/logo.png" group-title="ⓣⓥ ║  LIGUE1+ & DAZN FRANCE",FR | PPV LIVE EVENEMENT HD
+http://foxbleu.org:80/ludovic/8333/139623
+#EXTINF:-1 tvg-ID="" tvg-name="DAZN FR 001|  Sparta Rotterdam vs. Feyenoord (2026-08-09 12:15:00)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/640px-Dazn-logo.png" group-title="ⓣⓥ ║  LIGUE1+ & DAZN FRANCE",DAZN FR 001|  Sparta Rotterdam vs. Feyenoord (2026-08-09 12:15:00)
+http://foxbleu.org:80/ludovic/8333/297224
+#EXTINF:-1 tvg-ID="" tvg-name="DAZN BE 027|  EWC - COD: Black Ops 7 -Day 5 (fr) (2026-08-09 13:00:00)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/640px-Dazn-logo.png" group-title="ⓣⓥ ║  LIGUE1+ & DAZN FRANCE",DAZN BE 027|  EWC - COD: Black Ops 7 -Day 5 (fr) (2026-08-09 13:00:00)
+http://foxbleu.org:80/ludovic/8333/297216
+#EXTINF:-1 tvg-ID="" tvg-name="Dijon - Chalon-sur-Saône (2026-01-17 17:00:00)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/640px-Dazn-logo.png" group-title="ⓣⓥ ║  LIGUE1+ & DAZN FRANCE",Dijon - Chalon-sur-Saône (2026-01-17 17:00:00)
+http://foxbleu.org:80/ludovic/8333/297215
+#EXTINF:-1 tvg-ID="" tvg-name="-• ✬● FR | FRANCE (BAS DEBIT) | FR  ●✬•-" tvg-logo="http://logo.one-tvplus.com/logoonetv/franceflag.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",-• ✬● FR | FRANCE (BAS DEBIT) | FR  ●✬•-
+http://foxbleu.org:80/ludovic/8333/39549
+#EXTINF:-1 tvg-ID="TF1.fr" tvg-name="FR | TF1 (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/TF1.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | TF1 (SD)
+http://foxbleu.org:80/ludovic/8333/39476
+#EXTINF:-1 tvg-ID="France2.fr" tvg-name="FR | FRANCE 2 (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/France2.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | FRANCE 2 (SD)
+http://foxbleu.org:80/ludovic/8333/39474
+#EXTINF:-1 tvg-ID="France3.fr" tvg-name="FR | FRANCE 3 (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/France3.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | FRANCE 3 (SD)
+http://foxbleu.org:80/ludovic/8333/39473
+#EXTINF:-1 tvg-ID="France4.fr" tvg-name="FR | FRANCE 4 (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/France4.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | FRANCE 4 (SD)
+http://foxbleu.org:80/ludovic/8333/39472
+#EXTINF:-1 tvg-ID="France 5 FR" tvg-name="FR | FRANCE 5 (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/France5.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | FRANCE 5 (SD)
+http://foxbleu.org:80/ludovic/8333/39471
+#EXTINF:-1 tvg-ID="M6.fr" tvg-name="FR | M6 (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/M6_new2020.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | M6 (SD)
+http://foxbleu.org:80/ludovic/8333/39470
+#EXTINF:-1 tvg-ID="ARTE.fr" tvg-name="FR |  ARTE (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/arte.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR |  ARTE (SD)
+http://foxbleu.org:80/ludovic/8333/39469
+#EXTINF:-1 tvg-ID="CANALplus.fr" tvg-name="FR | CANAL+  (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/canalplus.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | CANAL+  (SD)
+http://foxbleu.org:80/ludovic/8333/39442
+#EXTINF:-1 tvg-ID="CANALplusCINEMA.fr" tvg-name="FR | CANAL+  CINEMA (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/canalpluscinema.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | CANAL+  CINEMA (SD)
+http://foxbleu.org:80/ludovic/8333/39441
+#EXTINF:-1 tvg-ID="CinecinemaPremier.fr" tvg-name="FR | CINE+  OCS (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/CinePremier.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | CINE+  OCS (SD)
+http://foxbleu.org:80/ludovic/8333/39436
+#EXTINF:-1 tvg-ID="CinecinemaEmotion.fr" tvg-name="FR | CINE+  EMOTION (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/CineEmotion.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | CINE+  EMOTION (SD)
+http://foxbleu.org:80/ludovic/8333/39435
+#EXTINF:-1 tvg-ID="CinecinemaFrisson.fr" tvg-name="FR | CINE+ FRISSON (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/CineFrisson.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | CINE+ FRISSON (SD)
+http://foxbleu.org:80/ludovic/8333/39433
+#EXTINF:-1 tvg-ID="CinecinemaFamiz.fr" tvg-name="FR | CINE+  FAMILY (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/CineFamiz.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | CINE+  FAMILY (SD)
+http://foxbleu.org:80/ludovic/8333/39434
+#EXTINF:-1 tvg-ID="CinecinemaClassic.fr" tvg-name="FR | CINE+ CLASSIC (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/CineClassic.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | CINE+ CLASSIC (SD)
+http://foxbleu.org:80/ludovic/8333/39431
+#EXTINF:-1 tvg-ID="OrangeCinemax.fr" tvg-name="FR | CINE+ FAMILY (SD)" tvg-logo="https://logoipro2.com/LOGO/CINE+FAMILY.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | CINE+ FAMILY (SD)
+http://foxbleu.org:80/ludovic/8333/39422
+#EXTINF:-1 tvg-ID="OCSPulp.fr" tvg-name="FR | CINE+ OCS (SD)" tvg-logo="https://logoipro2.com/LOGO/OCS.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | CINE+ OCS (SD)
+http://foxbleu.org:80/ludovic/8333/39423
+#EXTINF:-1 tvg-ID="OrangeCineGeants.fr" tvg-name="FR | CINE+ FESTIVAL (SD)" tvg-logo="https://logoipro2.com/LOGO/CINE+FESTIVAL.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | CINE+ FESTIVAL (SD)
+http://foxbleu.org:80/ludovic/8333/39425
+#EXTINF:-1 tvg-ID="TCM.fr" tvg-name="FR | TCM CINEMA (SD)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/30/TCM_Cin%C3%A9ma.svg/120px-TCM_Cin%C3%A9ma.svg.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | TCM CINEMA (SD)
+http://foxbleu.org:80/ludovic/8333/39428
+#EXTINF:-1 tvg-ID="CrimeDistrict.fr" tvg-name="FR | CRIME DISTRICT (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/crimedistrict.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | CRIME DISTRICT (SD)
+http://foxbleu.org:80/ludovic/8333/39536
+#EXTINF:-1 tvg-ID="Comedie.fr" tvg-name="FR | COMEDIE+ (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/Comedie_plus_new2020.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | COMEDIE+ (SD)
+http://foxbleu.org:80/ludovic/8333/39418
+#EXTINF:-1 tvg-ID="ComedyCentral.fr" tvg-name="FR | COMEDY CENTRAL FRANCE (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/comedy_central_m.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | COMEDY CENTRAL FRANCE (SD)
+http://foxbleu.org:80/ludovic/8333/39417
+#EXTINF:-1 tvg-ID="Warnertv.fr" tvg-name="FR | WARNER TV NEXT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/Warner_TV_Next_logo.png" group-title="ⓣⓥ ║  FRANCE UHD/FHD/HD",FR | WARNER TV NEXT HD
+http://foxbleu.org:80/ludovic/8333/373828
+#EXTINF:-1 tvg-ID="" tvg-name="FR | WARNER TV NEXT FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/Warner_TV_Next_logo.png" group-title="ⓣⓥ ║  FRANCE UHD/FHD/HD",FR | WARNER TV NEXT FHD
+http://foxbleu.org:80/ludovic/8333/373827
+#EXTINF:-1 tvg-ID="Warnertv.fr" tvg-name="FR | WARNER TV (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/warnertv.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | WARNER TV (SD)
+http://foxbleu.org:80/ludovic/8333/39429
+#EXTINF:-1 tvg-ID="Action.fr" tvg-name="FR | ACTION (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/action.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | ACTION (SD)
+http://foxbleu.org:80/ludovic/8333/39420
+#EXTINF:-1 tvg-ID="PolarPlus.fr" tvg-name="FR | POLAR +  (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/Polar.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | POLAR +  (SD)
+http://foxbleu.org:80/ludovic/8333/39421
+#EXTINF:-1 tvg-ID="13RUE.fr" tvg-name="FR | 13EME RUE (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/13emerue.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | 13EME RUE (SD)
+http://foxbleu.org:80/ludovic/8333/39419
+#EXTINF:-1 tvg-ID="Syfy.fr" tvg-name="FR | SYFY (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/SYFY.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | SYFY (SD)
+http://foxbleu.org:80/ludovic/8333/39412
+#EXTINF:-1 tvg-ID="MTVPlus1.fr" tvg-name="FR | MTV FRANCE (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/mtv.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | MTV FRANCE (SD)
+http://foxbleu.org:80/ludovic/8333/39486
+#EXTINF:-1 tvg-ID="NovelasTV.fr" tvg-name="FR | NOVELAS TV (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/NovelasTV.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | NOVELAS TV (SD)
+http://foxbleu.org:80/ludovic/8333/39541
+#EXTINF:-1 tvg-ID="EEntertainment.fr" tvg-name="FR | E! ENTERTAINMENT (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/e.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | E! ENTERTAINMENT (SD)
+http://foxbleu.org:80/ludovic/8333/39545
+#EXTINF:-1 tvg-ID="Mangas.fr" tvg-name="FR | MANGAS (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/Mangas_blanc.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | MANGAS (SD)
+http://foxbleu.org:80/ludovic/8333/39507
+#EXTINF:-1 tvg-ID="AB1.fr" tvg-name="FR | AB1 (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/ab1.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | AB1 (SD)
+http://foxbleu.org:80/ludovic/8333/39411
+#EXTINF:-1 tvg-ID="AB3.fr" tvg-name="FR | AB 3 (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/ab3.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | AB 3 (SD)
+http://foxbleu.org:80/ludovic/8333/39410
+#EXTINF:-1 tvg-ID="Teva.fr" tvg-name="FR | TEVA (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/Teva.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | TEVA (SD)
+http://foxbleu.org:80/ludovic/8333/39413
+#EXTINF:-1 tvg-ID="RTL9.fr" tvg-name="FR | RTL9 (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/RTL9.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | RTL9 (SD)
+http://foxbleu.org:80/ludovic/8333/39415
+#EXTINF:-1 tvg-ID="ParisPremiere.fr" tvg-name="FR | PARIS PREMIERE (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/ParisPremiere.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | PARIS PREMIERE (SD)
+http://foxbleu.org:80/ludovic/8333/39416
+#EXTINF:-1 tvg-ID="CANALplusSPORT.fr" tvg-name="FR | CANAL+  SPORT (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/canalplussport.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | CANAL+  SPORT (SD)
+http://foxbleu.org:80/ludovic/8333/39437
+#EXTINF:-1 tvg-ID="RMCdecouverte.fr" tvg-name="FR | RMC DECOUVERTE (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/RMCdecouverte_blanc.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | RMC DECOUVERTE (SD)
+http://foxbleu.org:80/ludovic/8333/39444
+#EXTINF:-1 tvg-ID="RMCStory.fr" tvg-name="FR | RMC STORY (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/RMCStory.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | RMC STORY (SD)
+http://foxbleu.org:80/ludovic/8333/39445
+#EXTINF:-1 tvg-ID="6ter.fr" tvg-name="FR | 6TER (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/6ter.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | 6TER (SD)
+http://foxbleu.org:80/ludovic/8333/39446
+#EXTINF:-1 tvg-ID="CStar.fr" tvg-name="FR | CSTAR HITS (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/cstarhits.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | CSTAR HITS (SD)
+http://foxbleu.org:80/ludovic/8333/39447
+#EXTINF:-1 tvg-ID="CStar.fr" tvg-name="FR | CSTAR (SD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/CStar_vector.svg/200px-CStar_vector.svg.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | CSTAR (SD)
+http://foxbleu.org:80/ludovic/8333/39448
+#EXTINF:-1 tvg-ID="TF1SeriesFilms.fr" tvg-name="FR | TF1 SERIES / FILMS (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/tf1seriesfilms.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | TF1 SERIES / FILMS (SD)
+http://foxbleu.org:80/ludovic/8333/39449
+#EXTINF:-1 tvg-ID="LaChaineParlementaire.fr" tvg-name="FR |  LA CHAINE PARLEMENTAIRE (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/lcp.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR |  LA CHAINE PARLEMENTAIRE (SD)
+http://foxbleu.org:80/ludovic/8333/39450
+#EXTINF:-1 tvg-ID="CNews.fr" tvg-name="FR | CNEWS (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/cnews.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | CNEWS (SD)
+http://foxbleu.org:80/ludovic/8333/39455
+#EXTINF:-1 tvg-ID="EuronewsFR.nws" tvg-name="FR | EURONEWS (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/Euronews.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | EURONEWS (SD)
+http://foxbleu.org:80/ludovic/8333/39456
+#EXTINF:-1 tvg-ID="Franceinfo.fr" tvg-name="FR | FRANCE INFO (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/Franceinfo_blanc.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | FRANCE INFO (SD)
+http://foxbleu.org:80/ludovic/8333/39457
+#EXTINF:-1 tvg-ID="LCI.fr" tvg-name="FR | LCI (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/lci.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | LCI (SD)
+http://foxbleu.org:80/ludovic/8333/39458
+#EXTINF:-1 tvg-ID="BFMBusiness.fr" tvg-name="FR | BFM BUSINESS (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/BFM_Business.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | BFM BUSINESS (SD)
+http://foxbleu.org:80/ludovic/8333/39459
+#EXTINF:-1 tvg-ID="BFMTV.fr" tvg-name="FR | BFM PARIS (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/bfmparis.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | BFM PARIS (SD)
+http://foxbleu.org:80/ludovic/8333/39460
+#EXTINF:-1 tvg-ID="BFMTV.fr" tvg-name="FR | BFM TV (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/BfmTV.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | BFM TV (SD)
+http://foxbleu.org:80/ludovic/8333/39461
+#EXTINF:-1 tvg-ID="LaChaineMeteo.fr" tvg-name="FR | LA CHAINE METEO (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/La_chaine_meteo.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | LA CHAINE METEO (SD)
+http://foxbleu.org:80/ludovic/8333/39462
+#EXTINF:-1 tvg-ID="NRJ 12 FR" tvg-name="FR | NRJ 12 (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/NRJ12.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | NRJ 12 (SD)
+http://foxbleu.org:80/ludovic/8333/39463
+#EXTINF:-1 tvg-ID="TFX.fr" tvg-name="FR | TFX (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/tfx.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | TFX (SD)
+http://foxbleu.org:80/ludovic/8333/39464
+#EXTINF:-1 tvg-ID="TMC.fr" tvg-name="FR | TMC (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/TMC.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | TMC (SD)
+http://foxbleu.org:80/ludovic/8333/39466
+#EXTINF:-1 tvg-ID="W9.fr" tvg-name="FR | W9 (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/w9.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | W9 (SD)
+http://foxbleu.org:80/ludovic/8333/39467
+#EXTINF:-1 tvg-ID="TeleMelody.fr" tvg-name="FR | MELODY TV (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/melody.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | MELODY TV (SD)
+http://foxbleu.org:80/ludovic/8333/39478
+#EXTINF:-1 tvg-ID="NRJHits.fr" tvg-name="FR | NRJ HITS TV (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/nrjhits.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | NRJ HITS TV (SD)
+http://foxbleu.org:80/ludovic/8333/39479
+#EXTINF:-1 tvg-ID="M6.fr" tvg-name="FR | M6 MUSIC (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/m6music.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | M6 MUSIC (SD)
+http://foxbleu.org:80/ludovic/8333/39481
+#EXTINF:-1 tvg-ID="Trace Urban HD FR" tvg-name="FR | TRACE URBAN (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/traceurban.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | TRACE URBAN (SD)
+http://foxbleu.org:80/ludovic/8333/39482
+#EXTINF:-1 tvg-ID="Trace Tropical FR" tvg-name="FR | TRACE LATINA (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/tracetropical.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | TRACE LATINA (SD)
+http://foxbleu.org:80/ludovic/8333/39483
+#EXTINF:-1 tvg-ID="MTVHits.uk" tvg-name="FR | MTV HITS (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/mtvhits.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | MTV HITS (SD)
+http://foxbleu.org:80/ludovic/8333/39485
+#EXTINF:-1 tvg-ID="MyzenTV.fr" tvg-name="FR | MYZEN TV (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/myzen.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | MYZEN TV (SD)
+http://foxbleu.org:80/ludovic/8333/39487
+#EXTINF:-1 tvg-ID="" tvg-name="FR | TOP SANTE  (SD)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/AerostarLogo.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | TOP SANTE  (SD)
+http://foxbleu.org:80/ludovic/8333/39488
+#EXTINF:-1 tvg-ID="Golfplus.fr" tvg-name="FR | GOLF  (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/GolfChannel.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | GOLF  (SD)
+http://foxbleu.org:80/ludovic/8333/39489
+#EXTINF:-1 tvg-ID="Automoto.fr" tvg-name="FR | AUTOMOTO LA CHAINE (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/Automoto_blanc.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | AUTOMOTO LA CHAINE (SD)
+http://foxbleu.org:80/ludovic/8333/39490
+#EXTINF:-1 tvg-ID="CanalPlusFoot.fr" tvg-name="FR | CANAL+ FOOT SD" tvg-logo="https://i.ibb.co/z2nQXYs/output-onlinepngtools-5.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | CANAL+ FOOT SD
+http://foxbleu.org:80/ludovic/8333/39491
+#EXTINF:-1 tvg-ID="EquidiaLive.fr" tvg-name="FR | EQUIDIA (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/Equidia.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | EQUIDIA (SD)
+http://foxbleu.org:80/ludovic/8333/39492
+#EXTINF:-1 tvg-ID="EUROSPORT3602.fr" tvg-name="FR | EUROSPORT 2 (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/Eurosport2_blanc.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | EUROSPORT 2 (SD)
+http://foxbleu.org:80/ludovic/8333/39493
+#EXTINF:-1 tvg-ID="EUROSPORT3601.fr" tvg-name="FR | EUROSPORT 1 (SD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/280px-Eurosport_1_Logo_2015.svg.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | EUROSPORT 1 (SD)
+http://foxbleu.org:80/ludovic/8333/39494
+#EXTINF:-1 tvg-ID="EquipeTV.fr" tvg-name="FR | L'EQUIPE 21 (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/lequipe21.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | L'EQUIPE 21 (SD)
+http://foxbleu.org:80/ludovic/8333/39495
+#EXTINF:-1 tvg-ID="Infosport.fr" tvg-name="FR | INFOSPORT  (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/Infosportplus.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | INFOSPORT  (SD)
+http://foxbleu.org:80/ludovic/8333/39496
+#EXTINF:-1 tvg-ID="beINSport3.fr" tvg-name="FR | BEIN SPORT 3 (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/beinsports3_fr.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | BEIN SPORT 3 (SD)
+http://foxbleu.org:80/ludovic/8333/39497
+#EXTINF:-1 tvg-ID="beINSport2.fr" tvg-name="FR | BEIN SPORT 2 (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/beinsports2_fr.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | BEIN SPORT 2 (SD)
+http://foxbleu.org:80/ludovic/8333/39498
+#EXTINF:-1 tvg-ID="RMCSport1.fr" tvg-name="FR | BEIN SPORT 1 (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/beinsports1_fr.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | BEIN SPORT 1 (SD)
+http://foxbleu.org:80/ludovic/8333/39499
+#EXTINF:-1 tvg-ID="CartoonNetwork.fr" tvg-name="FR | CARTOON NETWORK (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/CartoonNetwork.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | CARTOON NETWORK (SD)
+http://foxbleu.org:80/ludovic/8333/39508
+#EXTINF:-1 tvg-ID="Toonami.fr" tvg-name="FR | ‎WARNER TV NEXT SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/Warner_TV_Next_logo.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | ‎WARNER TV NEXT SD
+http://foxbleu.org:80/ludovic/8333/39509
+#EXTINF:-1 tvg-ID="Boomerang FR" tvg-name="FR | BOOMERANG (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/boomerang.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | BOOMERANG (SD)
+http://foxbleu.org:80/ludovic/8333/39510
+#EXTINF:-1 tvg-ID="Boing.fr" tvg-name="FR | BOING (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/Boing.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | BOING (SD)
+http://foxbleu.org:80/ludovic/8333/39511
+#EXTINF:-1 tvg-ID="TeleTOONplus1.fr" tvg-name="FR | TELETOON+1 (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/teletoonplus1.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | TELETOON+1 (SD)
+http://foxbleu.org:80/ludovic/8333/39512
+#EXTINF:-1 tvg-ID="TeleTOON.fr" tvg-name="FR | TELETOON+ (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/teletoon.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | TELETOON+ (SD)
+http://foxbleu.org:80/ludovic/8333/39513
+#EXTINF:-1 tvg-ID="Tiji.fr" tvg-name="FR | TIJI (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/tiji.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | TIJI (SD)
+http://foxbleu.org:80/ludovic/8333/39514
+#EXTINF:-1 tvg-ID="PIWI.fr" tvg-name="FR | PIWI (SD)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/6e/Piwi%2B_logo_2011.png/130px-Piwi%2B_logo_2011.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | PIWI (SD)
+http://foxbleu.org:80/ludovic/8333/39515
+#EXTINF:-1 tvg-ID="Gulli.fr" tvg-name="FR | GULLI (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/gulli.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | GULLI (SD)
+http://foxbleu.org:80/ludovic/8333/39516
+#EXTINF:-1 tvg-ID="BabyTV.fr" tvg-name="FR | BABY TV (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/BabyTV.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | BABY TV (SD)
+http://foxbleu.org:80/ludovic/8333/39517
+#EXTINF:-1 tvg-ID="CanalJ.fr" tvg-name="FR | CANAL J (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/CanalJ.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | CANAL J (SD)
+http://foxbleu.org:80/ludovic/8333/39518
+#EXTINF:-1 tvg-ID="NickJr.fr" tvg-name="FR | NICKELODEON JUNIOR (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/NickelodeonJunior.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | NICKELODEON JUNIOR (SD)
+http://foxbleu.org:80/ludovic/8333/39519
+#EXTINF:-1 tvg-ID="Nick4teens.fr" tvg-name="FR | NICKTOONS (SD)" tvg-logo="https://logoipro2.com/logo/37944.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | NICKTOONS (SD)
+http://foxbleu.org:80/ludovic/8333/39520
+#EXTINF:-1 tvg-ID="Nickelodeon.fr" tvg-name="FR | NICKELODEON CHANNEL (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/Nickelodeon.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | NICKELODEON CHANNEL (SD)
+http://foxbleu.org:80/ludovic/8333/39521
+#EXTINF:-1 tvg-ID="DisneyJunior.fr" tvg-name="FR | DISNEY JUNIOR (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/disneyjunior.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | DISNEY JUNIOR (SD)
+http://foxbleu.org:80/ludovic/8333/39523
+#EXTINF:-1 tvg-ID="DisneyChannelPlus1.fr" tvg-name="FR | DISNEY + (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/disneyplus.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | DISNEY + (SD)
+http://foxbleu.org:80/ludovic/8333/39524
+#EXTINF:-1 tvg-ID="DisneyChannel.fr" tvg-name="FR | DISNEY CHANNEL (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/DIsneyChannel.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | DISNEY CHANNEL (SD)
+http://foxbleu.org:80/ludovic/8333/39525
+#EXTINF:-1 tvg-ID="Animaux.fr" tvg-name="FR | ANIMAUX (SD)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/8/8a/Logo-Animaux-2017.png/280px-Logo-Animaux-2017.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | ANIMAUX (SD)
+http://foxbleu.org:80/ludovic/8333/39526
+#EXTINF:-1 tvg-ID="Histoire.fr" tvg-name="FR | HISTOIRE (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/HistoireTV.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | HISTOIRE (SD)
+http://foxbleu.org:80/ludovic/8333/39527
+#EXTINF:-1 tvg-ID="ScienceVie.fr" tvg-name="FR | SCIENCE & VIE TV (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/science_vie.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | SCIENCE & VIE TV (SD)
+http://foxbleu.org:80/ludovic/8333/39528
+#EXTINF:-1 tvg-ID="NatGeoWildHD.fr" tvg-name="FR | NATIONAL GEO WILD (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/nationalgeowild.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | NATIONAL GEO WILD (SD)
+http://foxbleu.org:80/ludovic/8333/39529
+#EXTINF:-1 tvg-ID="NationalGeographic.fr" tvg-name="FR | NATIONAL GEO (SD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/250px-National_Geographic_Channel.svg.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | NATIONAL GEO (SD)
+http://foxbleu.org:80/ludovic/8333/39530
+#EXTINF:-1 tvg-ID="UshuaiaTV.fr" tvg-name="FR | USHUAIA TV (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/UshuaiaTV_new2020.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | USHUAIA TV (SD)
+http://foxbleu.org:80/ludovic/8333/39531
+#EXTINF:-1 tvg-ID="DiscoveryInvestigation.fr" tvg-name="FR | DISCOVERY INVESTIGATIONS (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/Discovery_ID_new2020_blanc.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | DISCOVERY INVESTIGATIONS (SD)
+http://foxbleu.org:80/ludovic/8333/39533
+#EXTINF:-1 tvg-ID="Discovery.fr" tvg-name="FR | DISCOVERY CHANNEL (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/DiscoveryChannel.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | DISCOVERY CHANNEL (SD)
+http://foxbleu.org:80/ludovic/8333/39535
+#EXTINF:-1 tvg-ID="PLANETE.fr" tvg-name="FR | PLANETE+ CRIME (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/PlaneteCI_blanc.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | PLANETE+ CRIME (SD)
+http://foxbleu.org:80/ludovic/8333/39537
+#EXTINF:-1 tvg-ID="PLANETEAandE.fr" tvg-name="FR | PLANETE+ AVENTURE (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/PlaneteAE_blanc.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | PLANETE+ AVENTURE (SD)
+http://foxbleu.org:80/ludovic/8333/39538
+#EXTINF:-1 tvg-ID="PLANETE.fr" tvg-name="FR | PLANETE+ (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/Planeteplus.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | PLANETE+ (SD)
+http://foxbleu.org:80/ludovic/8333/39539
+#EXTINF:-1 tvg-ID="TVBreizh.fr" tvg-name="FR | TV BREIZH (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/tvbreizh.png" group-title="ⓣⓥ ║  FRANCE SD (BAS DEBIT)",FR | TV BREIZH (SD)
+http://foxbleu.org:80/ludovic/8333/39548
+#EXTINF:-1 tvg-ID="" tvg-name="-• ✬● FR | KIDS FRANCE | FR  ●✬•-" tvg-logo="http://logo.one-tvplus.com/logoonetv/franceflag.png" group-title="ⓣⓥ ║  FRANCE KIDS",-• ✬● FR | KIDS FRANCE | FR  ●✬•-
+http://foxbleu.org:80/ludovic/8333/84282
+#EXTINF:-1 tvg-ID="Cartoonito.fr" tvg-name="FR | CARTOONITO FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfeino0fbolJWgy0PApLxroBCq09jZEwVi3w&s" group-title="ⓣⓥ ║  FRANCE KIDS",FR | CARTOONITO FHD
+http://foxbleu.org:80/ludovic/8333/436430
+#EXTINF:-1 tvg-ID="Cartoonito.fr" tvg-name="FR | CARTOONITO HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfeino0fbolJWgy0PApLxroBCq09jZEwVi3w&s" group-title="ⓣⓥ ║  FRANCE KIDS",FR | CARTOONITO HD
+http://foxbleu.org:80/ludovic/8333/436431
+#EXTINF:-1 tvg-ID="Cartoonito.fr" tvg-name="FR | CARTOONITO SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfeino0fbolJWgy0PApLxroBCq09jZEwVi3w&s" group-title="ⓣⓥ ║  FRANCE KIDS",FR | CARTOONITO SD
+http://foxbleu.org:80/ludovic/8333/436432
+#EXTINF:-1 tvg-ID="DisneyChannelPlus1.fr" tvg-name="FR | DREAMWORKS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/55/1024px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png/800px-1024px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png" group-title="ⓣⓥ ║  FRANCE KIDS",FR | DREAMWORKS FHD
+http://foxbleu.org:80/ludovic/8333/1041
+#EXTINF:-1 tvg-ID="" tvg-name="FR | DREAMWORKS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/55/1024px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png/800px-1024px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png" group-title="ⓣⓥ ║  FRANCE KIDS",FR | DREAMWORKS HD
+http://foxbleu.org:80/ludovic/8333/393617
+#EXTINF:-1 tvg-ID="" tvg-name="FR | CANAL+ KIDS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Canal%2B_Kids.png" group-title="ⓣⓥ ║  FRANCE KIDS",FR | CANAL+ KIDS FHD
+http://foxbleu.org:80/ludovic/8333/142060
+#EXTINF:-1 tvg-ID="" tvg-name="FR | CANAL+ KIDS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Canal%2B_Kids.png" group-title="ⓣⓥ ║  FRANCE KIDS",FR | CANAL+ KIDS HD
+http://foxbleu.org:80/ludovic/8333/142061
+#EXTINF:-1 tvg-ID="DisneyChannel.fr" tvg-name="FR | DISNEY CHANNEL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/87/Disney_Channel_2014.png" group-title="ⓣⓥ ║  FRANCE KIDS",FR | DISNEY CHANNEL FHD
+http://foxbleu.org:80/ludovic/8333/13861
+#EXTINF:-1 tvg-ID="DisneyChannel.fr" tvg-name="FR | DISNEY CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/87/Disney_Channel_2014.png" group-title="ⓣⓥ ║  FRANCE KIDS",FR | DISNEY CHANNEL HD
+http://foxbleu.org:80/ludovic/8333/24946
+#EXTINF:-1 tvg-ID="DisneyChannel.fr" tvg-name="FR | DISNEY CHANNEL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/87/Disney_Channel_2014.png" group-title="ⓣⓥ ║  FRANCE KIDS",FR | DISNEY CHANNEL SD
+http://foxbleu.org:80/ludovic/8333/1040
+#EXTINF:-1 tvg-ID="DisneyJunior.fr" tvg-name="FR | DISNEY JUNIOR FHD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/disneyjunior.png" group-title="ⓣⓥ ║  FRANCE KIDS",FR | DISNEY JUNIOR FHD
+http://foxbleu.org:80/ludovic/8333/13863
+#EXTINF:-1 tvg-ID="DisneyJunior.fr" tvg-name="FR | DISNEY JUNIOR HD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/disneyjunior.png" group-title="ⓣⓥ ║  FRANCE KIDS",FR | DISNEY JUNIOR HD
+http://foxbleu.org:80/ludovic/8333/24934
+#EXTINF:-1 tvg-ID="Nickelodeon.fr" tvg-name="FR | NICKELODEON FHD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/nickelodeon.png" group-title="ⓣⓥ ║  FRANCE KIDS",FR | NICKELODEON FHD
+http://foxbleu.org:80/ludovic/8333/24958
+#EXTINF:-1 tvg-ID="nickelodeon.fr" tvg-name="FR | NICKELODEON HD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/nickelodeon.png" group-title="ⓣⓥ ║  FRANCE KIDS",FR | NICKELODEON HD
+http://foxbleu.org:80/ludovic/8333/14037
+#EXTINF:-1 tvg-ID="Nickelodeon FR" tvg-name="FR | NICKELODEON+1 FHD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/nickelodeon.png" group-title="ⓣⓥ ║  FRANCE KIDS",FR | NICKELODEON+1 FHD
+http://foxbleu.org:80/ludovic/8333/13854
+#EXTINF:-1 tvg-ID="Nickelodeon Junior FR" tvg-name="FR | NICKELODEON JUN FHD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/nickelodeonjuniorplus1.png" group-title="ⓣⓥ ║  FRANCE KIDS",FR | NICKELODEON JUN FHD
+http://foxbleu.org:80/ludovic/8333/13851
+#EXTINF:-1 tvg-ID="Nickelodeon Junior FR" tvg-name="FR | NICKELODEON JUNIOR HD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/nickelodeonjunior.png" group-title="ⓣⓥ ║  FRANCE KIDS",FR | NICKELODEON JUNIOR HD
+http://foxbleu.org:80/ludovic/8333/24935
+#EXTINF:-1 tvg-ID="NickJr.fr" tvg-name="FR | NICKELODEON JUN SD" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/Nickelodeon.png" group-title="ⓣⓥ ║  FRANCE KIDS",FR | NICKELODEON JUN SD
+http://foxbleu.org:80/ludovic/8333/28344
+#EXTINF:-1 tvg-ID="Nick4teens.fr" tvg-name="FR | NICKELODEON TEEN FHD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/nickelodeon4teen.png" group-title="ⓣⓥ ║  FRANCE KIDS",FR | NICKELODEON TEEN FHD
+http://foxbleu.org:80/ludovic/8333/24957
+#EXTINF:-1 tvg-ID="Nick4teens.fr" tvg-name="FR | NICKELODEON TEEN HD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/nickelodeon4teen.png" group-title="ⓣⓥ ║  FRANCE KIDS",FR | NICKELODEON TEEN HD
+http://foxbleu.org:80/ludovic/8333/24953
+#EXTINF:-1 tvg-ID="Toonami.fr" tvg-name="FR | ‎WARNER TV NEXT FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/Warner_TV_Next_logo.png" group-title="ⓣⓥ ║  FRANCE KIDS",FR | ‎WARNER TV NEXT FHD
+http://foxbleu.org:80/ludovic/8333/13850
+#EXTINF:-1 tvg-ID="Toonami.fr" tvg-name="FR | ‎WARNER TV NEXT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/Warner_TV_Next_logo.png" group-title="ⓣⓥ ║  FRANCE KIDS",FR | ‎WARNER TV NEXT HD
+http://foxbleu.org:80/ludovic/8333/24956
+#EXTINF:-1 tvg-ID="TeleTOON.fr" tvg-name="FR | TELETOON + HD" tvg-logo="https://logoipro2.com/LOGO/FRANCE%20OTT/teletoon.png" group-title="ⓣⓥ ║  FRANCE KIDS",FR | TELETOON + HD
+http://foxbleu.org:80/ludovic/8333/205485
+#EXTINF:-1 tvg-ID="TeleTOONplus1.fr" tvg-name="FR | TELETOON +1 FHD" tvg-logo="https://logoipro2.com/LOGO/FRANCE%20OTT/teletoonplus1.png" group-title="ⓣⓥ ║  FRANCE KIDS",FR | TELETOON +1 FHD
+http://foxbleu.org:80/ludovic/8333/13855
+#EXTINF:-1 tvg-ID="TeleTOONplus1.fr" tvg-name="FR | TELETOON +1 HD" tvg-logo="https://logoipro2.com/LOGO/FRANCE%20OTT/teletoonplus1.png" group-title="ⓣⓥ ║  FRANCE KIDS",FR | TELETOON +1 HD
+http://foxbleu.org:80/ludovic/8333/13869
+#EXTINF:-1 tvg-ID="PIWI.fr" tvg-name="FR | PIWI+ FHD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/piwiplus.png" group-title="ⓣⓥ ║  FRANCE KIDS",FR | PIWI+ FHD
+http://foxbleu.org:80/ludovic/8333/13867
+#EXTINF:-1 tvg-ID="PIWI.fr" tvg-name="FR | PIWI+ HD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/piwiplus.png" group-title="ⓣⓥ ║  FRANCE KIDS",FR | PIWI+ HD
+http://foxbleu.org:80/ludovic/8333/24937
+#EXTINF:-1 tvg-ID="CanalJ.fr" tvg-name="FR | CANAL J FHD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/canalj.png" group-title="ⓣⓥ ║  FRANCE KIDS",FR | CANAL J FHD
+http://foxbleu.org:80/ludovic/8333/13764
+#EXTINF:-1 tvg-ID="CanalJ.fr" tvg-name="FR | CANAL J HD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/canalj.png" group-title="ⓣⓥ ║  FRANCE KIDS",FR | CANAL J HD
+http://foxbleu.org:80/ludovic/8333/24941
+#EXTINF:-1 tvg-ID="TIJI FR" tvg-name="FR | TIJI FHD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/tiji.png" group-title="ⓣⓥ ║  FRANCE KIDS",FR | TIJI FHD
+http://foxbleu.org:80/ludovic/8333/13868
+#EXTINF:-1 tvg-ID="Tiji.fr" tvg-name="FR | TIJI HD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/tiji.png" group-title="ⓣⓥ ║  FRANCE KIDS",FR | TIJI HD
+http://foxbleu.org:80/ludovic/8333/24949
+#EXTINF:-1 tvg-ID="" tvg-name="FR | NICKTOONS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Nicktoons_logo_%282023%29.svg" group-title="ⓣⓥ ║  FRANCE KIDS",FR | NICKTOONS HD
+http://foxbleu.org:80/ludovic/8333/394020
+#EXTINF:-1 tvg-ID="Boomerang.fr" tvg-name="FR | BOOMERANG FHD" tvg-logo="https://logoipro2.com/LOGO/FRANCE/boomerang.png" group-title="ⓣⓥ ║  FRANCE KIDS",FR | BOOMERANG FHD
+http://foxbleu.org:80/ludovic/8333/13858
+#EXTINF:-1 tvg-ID="Boomerang.fr" tvg-name="FR | BOOMERANG HD" tvg-logo="https://logoipro2.com/LOGO/FRANCE/boomerang.png" group-title="ⓣⓥ ║  FRANCE KIDS",FR | BOOMERANG HD
+http://foxbleu.org:80/ludovic/8333/24954
+#EXTINF:-1 tvg-ID="Boing.fr" tvg-name="FR | BOING FHD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/boing.png" group-title="ⓣⓥ ║  FRANCE KIDS",FR | BOING FHD
+http://foxbleu.org:80/ludovic/8333/13859
+#EXTINF:-1 tvg-ID="Boing.fr" tvg-name="FR | BOING HD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/boing.png" group-title="ⓣⓥ ║  FRANCE KIDS",FR | BOING HD
+http://foxbleu.org:80/ludovic/8333/24945
+#EXTINF:-1 tvg-ID="BabyTV.fr" tvg-name="FR | BABY TV HD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/babytv.png" group-title="ⓣⓥ ║  FRANCE KIDS",FR | BABY TV HD
+http://foxbleu.org:80/ludovic/8333/24943
+#EXTINF:-1 tvg-ID="Cartoon Network FR" tvg-name="FR |  CARTOON NETWORK FHD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/cartoon-network_m.png" group-title="ⓣⓥ ║  FRANCE KIDS",FR |  CARTOON NETWORK FHD
+http://foxbleu.org:80/ludovic/8333/13761
+#EXTINF:-1 tvg-ID="CartoonNetwork.fr" tvg-name="FR | CARTOON NETWORK HD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/cartoon-network_m.png" group-title="ⓣⓥ ║  FRANCE KIDS",FR | CARTOON NETWORK HD
+http://foxbleu.org:80/ludovic/8333/24933
+#EXTINF:-1 tvg-ID="Gulli.fr" tvg-name="FR | GULLI FHD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/gulli.png" group-title="ⓣⓥ ║  FRANCE KIDS",FR | GULLI FHD
+http://foxbleu.org:80/ludovic/8333/13864
+#EXTINF:-1 tvg-ID="Gulli.fr" tvg-name="FR | GULLI HD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/gulli.png" group-title="ⓣⓥ ║  FRANCE KIDS",FR | GULLI HD
+http://foxbleu.org:80/ludovic/8333/24955
+#EXTINF:-1 tvg-ID="Gulli.fr" tvg-name="FR | GULLI SD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/gulli.png" group-title="ⓣⓥ ║  FRANCE KIDS",FR | GULLI SD
+http://foxbleu.org:80/ludovic/8333/1020
+#EXTINF:-1 tvg-ID="" tvg-name="FR | PITCHOUN TV FHD" tvg-logo="https://i.ibb.co/GPRhvLg/PITCHONTV.png" group-title="ⓣⓥ ║  FRANCE KIDS",FR | PITCHOUN TV FHD
+http://foxbleu.org:80/ludovic/8333/297053
+#EXTINF:-1 tvg-ID="Mangas.fr" tvg-name="FR | MANGAS FHD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/mangas.png" group-title="ⓣⓥ ║  FRANCE KIDS",FR | MANGAS FHD
+http://foxbleu.org:80/ludovic/8333/13865
+#EXTINF:-1 tvg-ID="Mangas.fr" tvg-name="FR | MANGAS HD" tvg-logo="https://logoipro2.com/LOGO/FRANCE/mangas.png" group-title="ⓣⓥ ║  FRANCE KIDS",FR | MANGAS HD
+http://foxbleu.org:80/ludovic/8333/24932
+#EXTINF:-1 tvg-ID="" tvg-name="FR | DISNEY PRO+" tvg-logo="https://i.ibb.co/y4hXtqq/disney-pro.png" group-title="ⓣⓥ ║  FRANCE KIDS",FR | DISNEY PRO+
+http://foxbleu.org:80/ludovic/8333/153719
+#EXTINF:-1 tvg-ID="" tvg-name="FR | CINE KIDS HD" tvg-logo="" group-title="ⓣⓥ ║  FRANCE KIDS",FR | CINE KIDS HD
+http://foxbleu.org:80/ludovic/8333/24959
+#EXTINF:-1 tvg-ID="" tvg-name="FR | DISNEY ORANGE 1" tvg-logo="https://image.ibb.co/dOpVQo/logo_orange_200x200.jpg" group-title="ⓣⓥ ║  FRANCE KIDS",FR | DISNEY ORANGE 1
+http://foxbleu.org:80/ludovic/8333/24939
+#EXTINF:-1 tvg-ID="" tvg-name="FR | DISNEY ORANGE 2" tvg-logo="https://image.ibb.co/dOpVQo/logo_orange_200x200.jpg" group-title="ⓣⓥ ║  FRANCE KIDS",FR | DISNEY ORANGE 2
+http://foxbleu.org:80/ludovic/8333/24950
+#EXTINF:-1 tvg-ID="" tvg-name="FR | DISNEY ORANGE 3" tvg-logo="https://image.ibb.co/dOpVQo/logo_orange_200x200.jpg" group-title="ⓣⓥ ║  FRANCE KIDS",FR | DISNEY ORANGE 3
+http://foxbleu.org:80/ludovic/8333/24951
+#EXTINF:-1 tvg-ID="" tvg-name="FR | XILAM TV HD" tvg-logo="https://xilam.com/wp-content/uploads/2017/12/logo_xilam_detoure_gd_354x180.png" group-title="ⓣⓥ ║  FRANCE KIDS",FR | XILAM TV HD
+http://foxbleu.org:80/ludovic/8333/402281
+#EXTINF:-1 tvg-ID="" tvg-name="-• ✬● FR | KIDS LIVE 24/24 | FR ●✬•-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/225px-Flag_of_France.svg.png" group-title="ⓣⓥ ║  FRANCE KIDS",-• ✬● FR | KIDS LIVE 24/24 | FR ●✬•-
+http://foxbleu.org:80/ludovic/8333/91434
+#EXTINF:-1 tvg-ID="" tvg-name="FR | SCOOBY-DOO (LIVE)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRijuDuTLhsCmy4zHaxxyOeRSfkHUxbw88NkQ&s" group-title="ⓣⓥ ║  FRANCE KIDS",FR | SCOOBY-DOO (LIVE)
+http://foxbleu.org:80/ludovic/8333/437746
+#EXTINF:-1 tvg-ID="" tvg-name="FR | SPIDER-MAN (LIVE)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsYan-nqnetpe3JTmMBCRmNS1WbJDnleCEkg&s" group-title="ⓣⓥ ║  FRANCE KIDS",FR | SPIDER-MAN (LIVE)
+http://foxbleu.org:80/ludovic/8333/437745
+#EXTINF:-1 tvg-ID="" tvg-name="FR | LES SIMPSON (LIVE)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFcC4Bb3yt5wvB24cqg__OMtXvPj13YMpi8w&s" group-title="ⓣⓥ ║  FRANCE KIDS",FR | LES SIMPSON (LIVE)
+http://foxbleu.org:80/ludovic/8333/437744
+#EXTINF:-1 tvg-ID="" tvg-name="FR | SAM LE POMPIER (LIVE)" tvg-logo="https://s.tfoumax.fr/mmdia/i/40/6/11726406gvccx_3443.webp?v=1" group-title="ⓣⓥ ║  FRANCE KIDS",FR | SAM LE POMPIER (LIVE)
+http://foxbleu.org:80/ludovic/8333/437147
+#EXTINF:-1 tvg-ID="" tvg-name="FR | LES LAPINS CRÉTINS (LIVE)" tvg-logo="https://afjv.com/2014/02/140210_lapin_cretin.jpg" group-title="ⓣⓥ ║  FRANCE KIDS",FR | LES LAPINS CRÉTINS (LIVE)
+http://foxbleu.org:80/ludovic/8333/437146
+#EXTINF:-1 tvg-ID="" tvg-name="FR | RICK ET MORTY (LIVE)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNVJwpfWned9ky6pdjDGkZlLxay5_VHy1tAA&s" group-title="ⓣⓥ ║  FRANCE KIDS",FR | RICK ET MORTY (LIVE)
+http://foxbleu.org:80/ludovic/8333/437145
+#EXTINF:-1 tvg-ID="" tvg-name="FR | LES TORTUES NINJA (LIVE)" tvg-logo="https://play-lh.googleusercontent.com/IdUb7Szz7X_fDaAKWkBh1vK5HB1fJrCvmfmDjUBWZPlP35XdLHNiq_dstX_AsQ-sAB0=w256" group-title="ⓣⓥ ║  FRANCE KIDS",FR | LES TORTUES NINJA (LIVE)
+http://foxbleu.org:80/ludovic/8333/437144
+#EXTINF:-1 tvg-ID="" tvg-name="FR | LE MONDE DES WINX (LIVE)" tvg-logo="https://www.coloriagewinx.fr/img/winx.jpg" group-title="ⓣⓥ ║  FRANCE KIDS",FR | LE MONDE DES WINX (LIVE)
+http://foxbleu.org:80/ludovic/8333/437142
+#EXTINF:-1 tvg-ID="" tvg-name="FR | WINX CLUB (LIVE)" tvg-logo="https://up.quizlet.com/u9u8l-nB2Rs-256s.png" group-title="ⓣⓥ ║  FRANCE KIDS",FR | WINX CLUB (LIVE)
+http://foxbleu.org:80/ludovic/8333/437141
+#EXTINF:-1 tvg-ID="" tvg-name="FR | ROBOCAR POLI (LIVE)" tvg-logo="https://thingbaker.com/storage/2021.07/bbda49d8b6fa1bc165e0cb988434e91e.jpg" group-title="ⓣⓥ ║  FRANCE KIDS",FR | ROBOCAR POLI (LIVE)
+http://foxbleu.org:80/ludovic/8333/437140
+#EXTINF:-1 tvg-ID="" tvg-name="FR | VIOLETTA (LIVE)" tvg-logo="https://i.ibb.co/fVV9PmN9/output-onlinepngtools-9.png" group-title="ⓣⓥ ║  FRANCE KIDS",FR | VIOLETTA (LIVE)
+http://foxbleu.org:80/ludovic/8333/436300
+#EXTINF:-1 tvg-ID="" tvg-name="FR | LILO ET STITCH (LIVE)" tvg-logo="https://i.pinimg.com/474x/ec/d8/f1/ecd8f10574944d76d055429516b23211.jpg" group-title="ⓣⓥ ║  FRANCE KIDS",FR | LILO ET STITCH (LIVE)
+http://foxbleu.org:80/ludovic/8333/439237
+#EXTINF:-1 tvg-ID="" tvg-name="FR | BABAR (LIVE)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrjsInCUql5PAKJQP0-1sPlvhbiZNkmrhn8g&s" group-title="ⓣⓥ ║  FRANCE KIDS",FR | BABAR (LIVE)
+http://foxbleu.org:80/ludovic/8333/436299
+#EXTINF:-1 tvg-ID="" tvg-name="FR | TITEUF (LIVE)" tvg-logo="https://m.media-amazon.com/images/I/81Q5YfdUgsL._UF1000,1000_QL80_.jpg" group-title="ⓣⓥ ║  FRANCE KIDS",FR | TITEUF (LIVE)
+http://foxbleu.org:80/ludovic/8333/436298
+#EXTINF:-1 tvg-ID="" tvg-name="FR | REGULAR SHOW (LIVE)" tvg-logo="https://i5.walmartimages.com/seo/Cartoon-Network-Regular-Show-The-Movie-DVD_89f52559-763e-4e87-be00-ed64f4d73c31.2f51a02ced823d864e702a6b29580dcc.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF" group-title="ⓣⓥ ║  FRANCE KIDS",FR | REGULAR SHOW (LIVE)
+http://foxbleu.org:80/ludovic/8333/436297
+#EXTINF:-1 tvg-ID="" tvg-name="FR | LES RATZ (LIVE)" tvg-logo="https://www.filmspourenfants.net/wp-content/uploads/2018/07/ratz-a-347x500.jpg" group-title="ⓣⓥ ║  FRANCE KIDS",FR | LES RATZ (LIVE)
+http://foxbleu.org:80/ludovic/8333/436296
+#EXTINF:-1 tvg-ID="" tvg-name="FR | DRAGON BALL Z (LIVE)" tvg-logo="https://p1.hiclipart.com/preview/73/861/275/dragonball-z-anime-icon-dragonball-z-png-icon.jpg" group-title="ⓣⓥ ║  FRANCE KIDS",FR | DRAGON BALL Z (LIVE)
+http://foxbleu.org:80/ludovic/8333/436295
+#EXTINF:-1 tvg-ID="" tvg-name="FR | HUNTER X HUNTER (LIVE)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Hunter_%C3%97_Hunter_vol._1.png" group-title="ⓣⓥ ║  FRANCE KIDS",FR | HUNTER X HUNTER (LIVE)
+http://foxbleu.org:80/ludovic/8333/436294
+#EXTINF:-1 tvg-ID="" tvg-name="FR | PETIT OURS BRUN (LIVE)" tvg-logo="https://s.tfoumax.fr/mmdia/i/55/5/11730555ofdjv_3443.webp?v=1" group-title="ⓣⓥ ║  FRANCE KIDS",FR | PETIT OURS BRUN (LIVE)
+http://foxbleu.org:80/ludovic/8333/436293
+#EXTINF:-1 tvg-ID="" tvg-name="FR | OUI-OUI (LIVE)" tvg-logo="https://i.pinimg.com/474x/35/f0/c8/35f0c8f7fec82bbf3ad2eee6540707ce.jpg" group-title="ⓣⓥ ║  FRANCE KIDS",FR | OUI-OUI (LIVE)
+http://foxbleu.org:80/ludovic/8333/436292
+#EXTINF:-1 tvg-ID="" tvg-name="FR | DRAGON BALL SUPER (LIVE)" tvg-logo="https://cdn.auchan.fr/media/89838d4e-91fa-494b-92dc-0462ac070735_256x256/B2CD/" group-title="ⓣⓥ ║  FRANCE KIDS",FR | DRAGON BALL SUPER (LIVE)
+http://foxbleu.org:80/ludovic/8333/436291
+#EXTINF:-1 tvg-ID="" tvg-name="FR | MIRACULOUS (LIVE)" tvg-logo="https://s.tfoumax.fr/mmdia/i/0/0/vignette-square-miraculous-s06-424863_3443.webp" group-title="ⓣⓥ ║  FRANCE KIDS",FR | MIRACULOUS (LIVE)
+http://foxbleu.org:80/ludovic/8333/436290
+#EXTINF:-1 tvg-ID="" tvg-name="FR | FOOT 2 RUE (LIVE)" tvg-logo="https://cdn.auchan.fr/media/0d340b89-ffe4-4c49-9d24-f23ce0bfc27f_256x256/B2CD/" group-title="ⓣⓥ ║  FRANCE KIDS",FR | FOOT 2 RUE (LIVE)
+http://foxbleu.org:80/ludovic/8333/436289
+#EXTINF:-1 tvg-ID="" tvg-name="FR | PHINÉAS ET FERB (LIVE)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVjsZKqw7V1MRMfqUIMPoOv2IC-065_qRDmA&s" group-title="ⓣⓥ ║  FRANCE KIDS",FR | PHINÉAS ET FERB (LIVE)
+http://foxbleu.org:80/ludovic/8333/436288
+#EXTINF:-1 tvg-ID="" tvg-name="FR | PRINCESSE SOFIA (LIVE)" tvg-logo="https://images.jedessine.com/_uploads/_tiny_galerie/20130415/sofia_83r.jpg" group-title="ⓣⓥ ║  FRANCE KIDS",FR | PRINCESSE SOFIA (LIVE)
+http://foxbleu.org:80/ludovic/8333/435869
+#EXTINF:-1 tvg-ID="" tvg-name="FR | PLANES (LIVE)" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/p_planes_19869_cdb69e0c.jpeg" group-title="ⓣⓥ ║  FRANCE KIDS",FR | PLANES (LIVE)
+http://foxbleu.org:80/ludovic/8333/435868
+#EXTINF:-1 tvg-ID="" tvg-name="FR | MOI, MOCHE ET MÉCHANT (LIVE)" tvg-logo="https://i.ibb.co/qFywdkpp/output-onlinepngtools-5.png" group-title="ⓣⓥ ║  FRANCE KIDS",FR | MOI, MOCHE ET MÉCHANT (LIVE)
+http://foxbleu.org:80/ludovic/8333/435867
+#EXTINF:-1 tvg-ID="" tvg-name="FR | LES INDESTRUCTIBLES (LIVE)" tvg-logo="https://i.ibb.co/01jnymR/Famille-Indestructible.webp" group-title="ⓣⓥ ║  FRANCE KIDS",FR | LES INDESTRUCTIBLES (LIVE)
+http://foxbleu.org:80/ludovic/8333/435866
+#EXTINF:-1 tvg-ID="" tvg-name="FR | MADAGASCAR (LIVE)" tvg-logo="https://www.intofilm.org/intofilm-production/scaledcropped/870x489https%3A/s3-eu-west-1.amazonaws.com/images.cdn.filmclub.org/film__3935-madagascar--hi_res-33b9853d.jpg/film__3935-madagascar--hi_res-33b9853d.jpg" group-title="ⓣⓥ ║  FRANCE KIDS",FR | MADAGASCAR (LIVE)
+http://foxbleu.org:80/ludovic/8333/435865
+#EXTINF:-1 tvg-ID="" tvg-name="FR | LA REINE DES NEIGES (LIVE)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQssG5kiK1VuT5-5gC11U8Ne0i5qHU-z6S0RA&s" group-title="ⓣⓥ ║  FRANCE KIDS",FR | LA REINE DES NEIGES (LIVE)
+http://foxbleu.org:80/ludovic/8333/435864
+#EXTINF:-1 tvg-ID="" tvg-name="FR | L'ÂGE DE GLACE (LIVE)" tvg-logo="https://www.filmspourenfants.net/wp-content/uploads/2017/12/age-de-glace-1-a-350x500.jpg" group-title="ⓣⓥ ║  FRANCE KIDS",FR | L'ÂGE DE GLACE (LIVE)
+http://foxbleu.org:80/ludovic/8333/435863
+#EXTINF:-1 tvg-ID="" tvg-name="FR | KUNG FU PANDA (LIVE)" tvg-logo="https://i.ibb.co/pBR03gmN/output-onlinepngtools-6.png" group-title="ⓣⓥ ║  FRANCE KIDS",FR | KUNG FU PANDA (LIVE)
+http://foxbleu.org:80/ludovic/8333/435862
+#EXTINF:-1 tvg-ID="" tvg-name="FR | SHREK (LIVE)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7T6Fvy61UdoVK7Tu0OV_bO5MafPEXyA_yqQ&s" group-title="ⓣⓥ ║  FRANCE KIDS",FR | SHREK (LIVE)
+http://foxbleu.org:80/ludovic/8333/435861
+#EXTINF:-1 tvg-ID="" tvg-name="FR | TOY STORY (LIVE)" tvg-logo="https://i.ibb.co/LXF6dQBT/output-onlinepngtools-8.png" group-title="ⓣⓥ ║  FRANCE KIDS",FR | TOY STORY (LIVE)
+http://foxbleu.org:80/ludovic/8333/435860
+#EXTINF:-1 tvg-ID="" tvg-name="FR | CARS (LIVE)" tvg-logo="https://i.ibb.co/SXF922w5/Disney-Pixar-Cars-Track-Talkers-Lightning-Mc-Queen-Talking-Toy-Car-5-5-inch-Collectible-Play-Vehicle.png" group-title="ⓣⓥ ║  FRANCE KIDS",FR | CARS (LIVE)
+http://foxbleu.org:80/ludovic/8333/435859
+#EXTINF:-1 tvg-ID="" tvg-name="FR | MONDE DES PETITS (LIVE)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Monde_des_Titounis_Logo.png/330px-Monde_des_Titounis_Logo.png" group-title="ⓣⓥ ║  FRANCE KIDS",FR | MONDE DES PETITS (LIVE)
+http://foxbleu.org:80/ludovic/8333/91435
+#EXTINF:-1 tvg-ID="" tvg-name="FR | DORA L’EXPLORATRICE (LIVE)" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/dora.png" group-title="ⓣⓥ ║  FRANCE KIDS",FR | DORA L’EXPLORATRICE (LIVE)
+http://foxbleu.org:80/ludovic/8333/6713
+#EXTINF:-1 tvg-ID="" tvg-name="FR | LE MONDE MERVEILLEUX DE MICKEY (LIVE)" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/3c/29/4f/3c294f17-9ebd-0980-bbd4-dce81245107e/source/60x60bb.jpg" group-title="ⓣⓥ ║  FRANCE KIDS",FR | LE MONDE MERVEILLEUX DE MICKEY (LIVE)
+http://foxbleu.org:80/ludovic/8333/38527
+#EXTINF:-1 tvg-ID="" tvg-name="FR | PEPPA PIG (LIVE)" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/peppapig.png" group-title="ⓣⓥ ║  FRANCE KIDS",FR | PEPPA PIG (LIVE)
+http://foxbleu.org:80/ludovic/8333/6700
+#EXTINF:-1 tvg-ID="" tvg-name="FR | PYJAMASQUES (LIVE)" tvg-logo="https://www.cdiscount.com/pdt2/2/3/3/1/700x700/pyj3700653527233/rw/pyjamasques-coussin-forme-yoyo-l35xl33cm.jpg" group-title="ⓣⓥ ║  FRANCE KIDS",FR | PYJAMASQUES (LIVE)
+http://foxbleu.org:80/ludovic/8333/132892
+#EXTINF:-1 tvg-ID="" tvg-name="FR | RICKY ZOOM (LIVE)" tvg-logo="https://c2.tomy.com/sites/default/files/content/en_US/tomy/ricky-zoom/RickyZoom-MeetTheCharacters-Ricky-248x272.png" group-title="ⓣⓥ ║  FRANCE KIDS",FR | RICKY ZOOM (LIVE)
+http://foxbleu.org:80/ludovic/8333/132893
+#EXTINF:-1 tvg-ID="" tvg-name="FR | SIMON (LIVE)" tvg-logo="https://i.ibb.co/zmy44MW/SIMON.jpg" group-title="ⓣⓥ ║  FRANCE KIDS",FR | SIMON (LIVE)
+http://foxbleu.org:80/ludovic/8333/132894
+#EXTINF:-1 tvg-ID="" tvg-name="FR | MASHA ET MICHKA (LIVE)" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/mashaandmichka.png" group-title="ⓣⓥ ║  FRANCE KIDS",FR | MASHA ET MICHKA (LIVE)
+http://foxbleu.org:80/ludovic/8333/7185
+#EXTINF:-1 tvg-ID="" tvg-name="FR | CAILLOU (LIVE)" tvg-logo="https://pbs.twimg.com/profile_images/3495712008/bb89e6e190d39d61957f36b9f09f357b.jpeg" group-title="ⓣⓥ ║  FRANCE KIDS",FR | CAILLOU (LIVE)
+http://foxbleu.org:80/ludovic/8333/132901
+#EXTINF:-1 tvg-ID="" tvg-name="FR | COCOMELON (LIVE)" tvg-logo="https://ih1.redbubble.net/image.2085576873.8010/st,small,507x507-pad,600x600,f8f8f8.jpg" group-title="ⓣⓥ ║  FRANCE KIDS",FR | COCOMELON (LIVE)
+http://foxbleu.org:80/ludovic/8333/132899
+#EXTINF:-1 tvg-ID="" tvg-name="FR | KATURI (LIVE)" tvg-logo="https://yt3.ggpht.com/a/AATXAJwqY5Ajrzve6Mp9Pl3L6VvQJKdw5us6d__s-w=s696-c-k-c0xffffffff-no-rj-mo" group-title="ⓣⓥ ║  FRANCE KIDS",FR | KATURI (LIVE)
+http://foxbleu.org:80/ludovic/8333/132900
+#EXTINF:-1 tvg-ID="" tvg-name="FR | TROTRO (LIVE)" tvg-logo="https://www.gallimard-jeunesse.fr/var/gallimard-multisite/storage/images/_aliases/social_network_image/8/4/5/1/1548-5-fre-FR/TROTRO.png" group-title="ⓣⓥ ║  FRANCE KIDS",FR | TROTRO (LIVE)
+http://foxbleu.org:80/ludovic/8333/132898
+#EXTINF:-1 tvg-ID="" tvg-name="FR | BIP BIP ET COYOTE (LIVE)" tvg-logo="https://static.wikia.nocookie.net/heros/images/4/49/Bip_Bip_Infobox.png/revision/latest?cb=20200627075249&path-prefix=fr" group-title="ⓣⓥ ║  FRANCE KIDS",FR | BIP BIP ET COYOTE (LIVE)
+http://foxbleu.org:80/ludovic/8333/223184
+#EXTINF:-1 tvg-ID="" tvg-name="FR | TOM AND JERRY (LIVE)" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/tomandjerry.png" group-title="ⓣⓥ ║  FRANCE KIDS",FR | TOM AND JERRY (LIVE)
+http://foxbleu.org:80/ludovic/8333/6757
+#EXTINF:-1 tvg-ID="" tvg-name="FR | LOONEY TOONES (LIVE)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/6d/Looney_Tunes_Logo.png" group-title="ⓣⓥ ║  FRANCE KIDS",FR | LOONEY TOONES (LIVE)
+http://foxbleu.org:80/ludovic/8333/132896
+#EXTINF:-1 tvg-ID="" tvg-name="FR | CLASSIC DISNEY CARTOONS (LIVE)" tvg-logo="https://bcdbimages.s3.amazonaws.com/disney/mickey_logo1.jpg" group-title="ⓣⓥ ║  FRANCE KIDS",FR | CLASSIC DISNEY CARTOONS (LIVE)
+http://foxbleu.org:80/ludovic/8333/132895
+#EXTINF:-1 tvg-ID="" tvg-name="FR | LES DALTONS (LIVE)" tvg-logo="https://i.ibb.co/k1PMH62/unnamed.jpg" group-title="ⓣⓥ ║  FRANCE KIDS",FR | LES DALTONS (LIVE)
+http://foxbleu.org:80/ludovic/8333/132643
+#EXTINF:-1 tvg-ID="" tvg-name="FR | LA PANTHÈRE ROSE (LIVE)" tvg-logo="https://e7.pngegg.com/pngimages/331/590/png-clipart-inspector-clouseau-the-pink-panther-cartoon-the-pink-panther.png" group-title="ⓣⓥ ║  FRANCE KIDS",FR | LA PANTHÈRE ROSE (LIVE)
+http://foxbleu.org:80/ludovic/8333/136699
+#EXTINF:-1 tvg-ID="" tvg-name="FR | LUCKY LUKE (LIVE)" tvg-logo="https://seeklogo.com/images/L/lucky-luke-logo-01DC260EF9-seeklogo.com.png" group-title="ⓣⓥ ║  FRANCE KIDS",FR | LUCKY LUKE (LIVE)
+http://foxbleu.org:80/ludovic/8333/136700
+#EXTINF:-1 tvg-ID="" tvg-name="FR | OSCAR'S OASIS (LIVE)" tvg-logo="https://www.themoviedb.org/t/p/w500/wk7dZ7qoocFZqzvr37SfO5nKncr.jpg" group-title="ⓣⓥ ║  FRANCE KIDS",FR | OSCAR'S OASIS (LIVE)
+http://foxbleu.org:80/ludovic/8333/136701
+#EXTINF:-1 tvg-ID="" tvg-name="FR | 44 CHATS (LIVE)" tvg-logo="https://s.tfoumax.fr/mmdia/i/98/8/11727988gqqrj_3443.jpg?v=1" group-title="ⓣⓥ ║  FRANCE KIDS",FR | 44 CHATS (LIVE)
+http://foxbleu.org:80/ludovic/8333/142693
+#EXTINF:-1 tvg-ID="" tvg-name="FR | CHUCHU TV (LIVE)" tvg-logo="https://i.ibb.co/HKjWYWG/DDDD.jpg" group-title="ⓣⓥ ║  FRANCE KIDS",FR | CHUCHU TV (LIVE)
+http://foxbleu.org:80/ludovic/8333/64608
+#EXTINF:-1 tvg-ID="" tvg-name="FR | GUMBALL (LIVE)" tvg-logo="https://resize-gulli.jnsmedia.fr/r/890,__ym__/img//var/jeunesse/storage/images/gulli/chaine-tv/dessins-animes/le-monde-incroyable-de-gumball/personnages/gumball/27520969-1-fre-FR/Gumball.jpg" group-title="ⓣⓥ ║  FRANCE KIDS",FR | GUMBALL (LIVE)
+http://foxbleu.org:80/ludovic/8333/89852
