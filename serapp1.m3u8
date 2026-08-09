@@ -10,10 +10,23 @@ http://foxbleu.org:80/live/ludovic/8333/24980.m3u8
 http://foxbleu.org:80/live/ludovic/8333/409586.m3u8
 #EXTINF:-1 tvg-ID="beinsports4k.qa" tvg-name="AR |  BEIN SPORTS 4K" tvg-logo="https://i.ibb.co/vHg8Tvg/afc.png" group-title="ⓣⓥ ║  BEIN PACK",AR |  BEIN SPORTS 4K
 http://foxbleu.org:80/live/ludovic/8333/164973.m3u8
-#EXTINF:-1 tvg-ID="beinsports1ar.qa" tvg-name="AR | BEIN SPORTS 1 FHD" tvg-logo="https://logoipro2.com/LOGO/bein%20logo/beIN_SPORTS1_DIGITAL_Mono.png" group-title="ⓣⓥ ║  BEIN PACK",AR | BEIN SPORTS 1 FHD
+
+
+#EXTINF:-1 tvg-ID="beinsports1ar.qa" tvg-name="AR | BEIN SPORTS 1 FHD" tvg-logo="https://logoipro2.com/LOGO/bein%20logo/beIN_SPORTS1_DIGITAL_Mono.png" group-title="ⓣⓥ ║  BEIN PACK",AR | mando SPORTS 1 FHD
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=640x360
 http://foxbleu.org:80/live/ludovic/8333/13608.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="AR | BEIN SPORTS 1 FHD BKP" tvg-logo="https://logoipro2.com/LOGO/bein%20logo/beIN_SPORTS1_DIGITAL_Mono.png" group-title="ⓣⓥ ║  BEIN PACK",AR | BEIN SPORTS 1 FHD BKP
+
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="AR | BEIN SPORTS 1 FHD BKP" tvg-logo="https://logoipro2.com/LOGO/bein%20logo/beIN_SPORTS1_DIGITAL_Mono.png" group-title="ⓣⓥ ║  BEIN PACK",AR | mando SPORTS 1 FHD BKP
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=640x360
 http://foxbleu.org:80/live/ludovic/8333/368730.m3u8
+
+
+
 #EXTINF:-1 tvg-ID="beinsports1ar.qa" tvg-name="AR | BEIN SPORTS 1 HD" tvg-logo="https://logoipro2.com/LOGO/bein%20logo/beIN_SPORTS1_DIGITAL_Mono.png" group-title="ⓣⓥ ║  BEIN PACK",AR | BEIN SPORTS 1 HD
 http://foxbleu.org:80/live/ludovic/8333/13682.m3u8
 #EXTINF:-1 tvg-ID="beinsports1ar.qa" tvg-name="AR | BEIN SPORTS 1 HD BKP" tvg-logo="https://logoipro2.com/LOGO/bein%20logo/beIN_SPORTS1_DIGITAL_Mono.png" group-title="ⓣⓥ ║  BEIN PACK",AR | BEIN SPORTS 1 HD BKP
