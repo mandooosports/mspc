@@ -1,10 +1,43 @@
 #EXTM3U
-#EXT-X-VERSION:3
+#EXTINF:-1 tvg-ID="" tvg-name="-• ✬● AR | BEIN SPORTS ARABIC | AR  ●✬•-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BeIN_Sports.png/420px-BeIN_Sports.png" group-title="ⓣⓥ ║  BEIN PACK",-• ✬● AR | BEIN SPORTS ARABIC | AR  ●✬•-
+#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=640x360
+http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=245833&extension=m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1200000,RESOLUTION=854x480
+http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=272465&extension=m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720
+http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=3851&extension=m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1920x1080
+http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=114050&extension=m3u8
+ 
+#EXTINF:-1 tvg-ID="" tvg-name="AR | BEIN SPORTS 1 FHD BKP" tvg-logo="https://logoipro2.com/LOGO/bein%20logo/beIN_SPORTS1_DIGITAL_Mono.png" group-title="ⓣⓥ ║  BEIN PACK",AR | mando SPORTS 1 FHD BKP
 #EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=640x360
 http://foxbleu.org:80/live/ludovic/8333/368730.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=1200000,RESOLUTION=854x480
+http://foxbleu.org:80/live/ludovic/8333/368730.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720
+http://foxbleu.org:80/live/ludovic/8333/368730.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1920x1080
+http://foxbleu.org:80/live/ludovic/8333/368730.m3u8
+
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="AR | BEIN SPORTS GLOBAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/BeIN_SPORTS_Global_logo_2017.jpg" group-title="ⓣⓥ ║  BEIN PACK",AR | BEIN SPORTS GLOBAL HD
+#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=640x360
+http://foxbleu.org:80/live/ludovic/8333/13682.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1200000,RESOLUTION=854x480
 http://foxbleu.org:80/live/ludovic/8333/13682.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720
-http://foxbleu.org:80/live/ludovic/8333/13681.m3u8
+http://foxbleu.org:80/live/ludovic/8333/13682.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1920x1080
-http://foxbleu.org:80/live/ludovic/8333/13607.m3u8
+http://foxbleu.org:80/live/ludovic/8333/13682.m3u8
+
+#EXTINF:-1 tvg-ID="beinsports4k.qa" tvg-name="AR |  BEIN SPORTS 4K" tvg-logo="https://i.ibb.co/vHg8Tvg/afc.png" group-title="ⓣⓥ ║  BEIN PACK",AR |  BEIN SPORTS 4K
+#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=640x360
+http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=245833&extension=m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1200000,RESOLUTION=854x480
+http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=272465&extension=m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720
+http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=3851&extension=m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1920x1080
+http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=114050&extension=m3u8
