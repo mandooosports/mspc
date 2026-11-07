@@ -1,0 +1,12 @@
+{
+  "enabled": true,
+  "versionCode": 7,
+  "versionName": "1.6",
+  "minimumSupportedVersionCode": 7,
+  "apkUrl": "https://raw.githubusercontent.com/FLASHTVPC/FLASHTV/refs/heads/main/FLASH%20TV.apk?v=11",
+  "showExternalDownload": true,
+  "externalDownloadUrl": "https://raw.githubusercontent.com/FLASHTVPC/FLASHTV/refs/heads/main/FLASH%20TV.apk?v=11",
+  "externalDownloadLabel": "لو محمل التطبيق معدل حمله من هنا للتثبيت",
+  "title": "تحديث جديد للتطبيق",
+  "message": "تحديث شامل لحل جميع المشاكل"
+}
