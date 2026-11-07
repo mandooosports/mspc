@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "versionCode": 7,
-  "versionName": "1.6",
-  "minimumSupportedVersionCode": 7,
+  "versionCode": 8,
+  "versionName": "1.7",
+  "minimumSupportedVersionCode": 8,
   "apkUrl": "https://raw.githubusercontent.com/FLASHTVPC/FLASHTV/refs/heads/main/FLASH%20TV.apk?v=11",
   "showExternalDownload": true,
   "externalDownloadUrl": "https://raw.githubusercontent.com/FLASHTVPC/FLASHTV/refs/heads/main/FLASH%20TV.apk?v=11",
