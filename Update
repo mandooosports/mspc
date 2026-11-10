@@ -1,12 +1,12 @@
 {
   "enabled": true,
-  "versionCode": 8,
-  "versionName": "1.7",
-  "minimumSupportedVersionCode": 8,
-  "apkUrl": "https://raw.githubusercontent.com/FLASHTVPC/FLASHTV/refs/heads/main/FLASH%20TV.apk?v=11",
+  "versionCode": 9,
+  "versionName": "1.8",
+  "minimumSupportedVersionCode": 9,
+  "apkUrl": "https://raw.githubusercontent.com/FLASHTVPC/FLASHTV/refs/heads/main/FLASH%20TV.apk?v=12",
   "showExternalDownload": true,
-  "externalDownloadUrl": "https://raw.githubusercontent.com/FLASHTVPC/FLASHTV/refs/heads/main/FLASH%20TV.apk?v=11",
-  "externalDownloadLabel": "لو محمل التطبيق معدل حمله من هنا للتثبيت",
+  "externalDownloadUrl": "https://raw.githubusercontent.com/FLASHTVPC/FLASHTV/refs/heads/main/FLASH%20TV.apk?v=12",
+  "externalDownloadLabel": "حمله من رابط مباشر",
   "title": "تحديث جديد للتطبيق",
-  "message": "تحديث شامل لحل جميع المشاكل"
+  "message": "تحديث شامل لحل جميع المشاكل ومشاكل الحظر"
 }
