@@ -1,12 +1,12 @@
 {
   "enabled": true,
-  "versionCode": 12,
-  "versionName": "1.9",
-  "minimumSupportedVersionCode": 12,
+  "versionCode": 13,
+  "versionName": "2.0",
+  "minimumSupportedVersionCode": 13,
   "apkUrl": "https://raw.githubusercontent.com/FLASHTVPC/FLASHTV/refs/heads/main/FLASH%20TV.apk?v=15",
   "showExternalDownload": true,
   "externalDownloadUrl": "https://raw.githubusercontent.com/FLASHTVPC/FLASHTV/refs/heads/main/FLASH%20TV.apk?v=15",
   "externalDownloadLabel": "حمله من رابط مباشر",
   "title": "تحديث جديد للتطبيق",
-  "message": "تحديث شامل لحل جميع المشاكل "
+  "message": "تحديث شامل لحل مشاكل الحظر "
 }
